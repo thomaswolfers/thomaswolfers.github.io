@@ -1,6 +1,8 @@
 ---
+layout: archive
 permalink: /privacy/
 title: "Privacy"
+author_profile: true
 ---
 
 The privacy of our visitors is extremely important. We will never share, keep, or store any personal information nor any other information that maybe received without our knowledge. Third-party advertisers may place cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. If you wish to disable cookies, you may do so through your web browser options. This website does not use google analytics or any other analytics software.

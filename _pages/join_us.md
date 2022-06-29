@@ -1,6 +1,8 @@
 ---
+layout: archive
 permalink: /join_us/
 title: "Join Us"
+author_profile: true
 ---
 
 ## Contact 

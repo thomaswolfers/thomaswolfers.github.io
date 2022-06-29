@@ -1,6 +1,8 @@
 ---
+layout: archive
 permalink: /values/
 title: "Values"
+author_profile: true
 ---
 
 ## Attentive, kind, and honest in communication
