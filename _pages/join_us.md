@@ -3,6 +3,9 @@ permalink: /join_us/
 title: "Join Us"
 ---
 
+## Contact 
+Get in touch if you have any questions - dr.thomas.wolfers@gmail.com
+
 ## Postdoc positions
 All currently available postdoc positions are listed here
 
@@ -23,5 +26,3 @@ We always welcome motivated and interested students
 
 ## Fellowships
 If you like to write a research proposal for your individual PhD or postdoc funding (e.g., Marie Curie) get in touch
-
-### Contact - dr.thomas.wolfers@gmail.com
