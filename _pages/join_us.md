@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Positions"
-permalink: /positions/
+permalink: /join_us/
 author_profile: true
 ---
 
