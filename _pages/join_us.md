@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Postdocs
-all available Postdoc positions are listed here.
+All available Postdoc positions are listed here.
 
-### Postdoc position in Tübingen (Germany) 
+### I. Postdoc position in Tübingen (Germany) 
 - Payment based on German scale TV-L 13 100%
 - Duration 3-5 years
 - Background (PhD) in machine learning, computer-science, neuroscience, physics, or related field
