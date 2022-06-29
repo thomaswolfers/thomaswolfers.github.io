@@ -26,4 +26,4 @@ title: "Research"
 10.	***Leonardsen, Esten; …; Westlye, Lars T #; Wolfers, Thomas #; Yunpeng, Wang # (2022). Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage.*** # shared last author [link](https://doi.org/10.1101/2021.10.29.21265645)
 * SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
 
-### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
+## All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
