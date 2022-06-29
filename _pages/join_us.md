@@ -1,9 +1,10 @@
 ---
 permalink: /join_us/
-title: "Join Us"
 ---
 
-## Postdocs
+# Join Us
+
+## Postdoc positions
 All available Postdoc positions are listed here.
 
 ### I. Postdoc position in Tübingen (Germany) 
@@ -19,7 +20,7 @@ All available Postdoc positions are listed here.
 If you like to write a research proposal for your individual PostDoc funding (e.g. Marie Curie),
 don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
 
-## PhDs
+## PhD positions
 All available PhD positions are listed here.
 
 ### Get in touch
