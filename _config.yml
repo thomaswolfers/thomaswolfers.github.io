@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PM&ML"
+title                    : "Personalized Medicine & Machine Learning"
 title_separator          : "-"
 name                     : &name "PM&ML"
 description              : &description "Laboratory for Personalized Medicine & Machine Learning in Tübingen"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "painting_tuebingen.png"
-  bio              : "Personalized Medicine & Machine Learning"
+  bio              : 
   location         : "Tübingen, GER"
   employer         :
   pubmed           : 
