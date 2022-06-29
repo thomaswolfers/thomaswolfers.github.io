@@ -15,18 +15,12 @@ All currently available postdoc positions are listed here.
 - Send your CV, letter of motivation and contacts of two mentors.
 - Don't hesitate to get in touch if you have any questions - dr.thomas.wolfers@gmail.com
 
-### Get in touch
-If you like to write a research proposal for your individual postdoc funding (e.g. Marie Curie),
-don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
-
 ## PhD positions
 All currently available PhD positions are listed here.
 
-### Get in touch
-If you like to write a research proposal for your individual funding, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
-
 ## Internship opportunities
-We always welcome motivated and interested students.
+We always welcome motivated and interested students - dr.thomas.wolfers@gmail.com 
 
-### Get in touch
-If you are a student in medicine, psychology, biology, computer-science, neuroscience, physics or a related field, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
+## Fellowships
+If you like to write a research proposal for your individual PhD or postdoc funding (e.g., Marie Curie) get in touch
+- dr.thomas.wolfers@gmail.com 
