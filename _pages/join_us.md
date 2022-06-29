@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Join Us"
 permalink: /join_us/
-author_profile: true
+title: "Join Us"
 ---
 
 ## Postdocs
