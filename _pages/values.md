@@ -1,7 +1,8 @@
 ---
 permalink: /values/
-title: "Values"
 ---
+
+# Values
 
 ## Attentive, kind, and honest in communication
 
