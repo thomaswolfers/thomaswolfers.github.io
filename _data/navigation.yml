@@ -10,7 +10,7 @@ main:
     url: /values/    
     
   - title: "Join Us"
-    url: /positions/
+    url: /join_us/
         
-  - title: "Privacy Policy"
-    url: /terms/
+  - title: "Privacy"
+    url: /privacy/
