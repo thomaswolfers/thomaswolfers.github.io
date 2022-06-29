@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Attentive, kind, and honest in communication
-Communication is one of the most difficult, yet one of the most important interpersonal skills. Skilful communication can be cultivated. We try to cultivate a laboratory based on attentive, kind, and honest communication. We will dedicate some time to think about what it means for us individually and as a group and support each other in becoming better communicators.
+Communication is one of the most difficult, yet one of the most important interpersonal skills. Skilful communication can be cultivated. We try to cultivate a laboratory based on attentive, kind, and honest communication. We will dedicate some time to think about what it means for us individually and as a group and support each other in becoming better communicators with ourselves and each other.
 
 ### Celebrate and support each other 
 While there is awareness that the science of today rewards the individual rather than the group, we at least aim to rejoice in the success of others. While we have limited powers to change current scientific reward systems, it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing is possible, and nothing would be archived.
