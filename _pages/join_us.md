@@ -22,8 +22,10 @@ don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
 
 ## PhDs
 
+### No position available at moment
+Come back at a later point in time. New positions will be advertised here.
+
 ### Apply with your own proposal
-As soon as there is a position available, it will be advertised here. 
 If you like to write a research proposal for your individual funding, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
 
 ## Internship opportunities
