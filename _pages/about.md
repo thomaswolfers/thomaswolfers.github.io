@@ -10,7 +10,6 @@ redirect_from:
 
 ## Welcome!
 <br>
-<br>
 In our work we aim to make a difference for individuals with complex health challenges by developing approaches that zoom in on the individual instead of the disorder or disease as category. In this way we reduce stigmatization and in the long run improve our capacity to treat the underlying factors causing suffering. 
 <br>
 <br>
