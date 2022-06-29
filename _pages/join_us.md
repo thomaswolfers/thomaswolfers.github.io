@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /join_us/
 title: "Join Us"
 ---
