@@ -9,7 +9,7 @@ author_profile: true
 Communication is one of the most difficult, yet one of the most important interpersonal skills. Skilful communication can be cultivated. We try to cultivate a laboratory based on attentive, kind, and honest communication. We will dedicate some time to think about what it means for us individually and as a group and support each other in becoming better communicators.
 
 ### Celebrate and support each other 
-While there is awareness that the science of today rewards the individual rather than the group, we at least aim to rejoice in the success of others. While we have limited powers to change current scientific reward systems, it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing would be possible, and nothing would be archived.
+While there is awareness that the science of today rewards the individual rather than the group, we at least aim to rejoice in the success of others. While we have limited powers to change current scientific reward systems, it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing is possible, and nothing would be archived.
 
 ### Embrace diversity
 Everyone is important and no differences are made. This is not always easy to achieve but we strive towards this goal keeping ourselves and each other in check when unconscious biases, false beliefs or another sneaky mind-blindness is at play. We want to achieve equality of opportunity. 
