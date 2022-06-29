@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personalized Medicine & Machine Learning"
+title                    : "PM&ML"
 title_separator          : "-"
 name                     : &name "PM&ML"
 description              : &description "PM&ML"
