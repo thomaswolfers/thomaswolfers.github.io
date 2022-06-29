@@ -4,7 +4,7 @@ title: "Join Us"
 ---
 
 ## Contact 
-Get in touch if you have any questions - [email](dr.thomas.wolfers@gmail.com)
+Get in touch if you have any questions - [email](mailto:dr.thomas.wolfers@gmail.com)
 
 ## Postdoc positions
 All currently available postdoc positions are listed here.
