@@ -1,8 +1,7 @@
 ---
 permalink: /research/
+title: "Research"
 ---
-
-# Research
 
 ## Top-10 Publications
 
