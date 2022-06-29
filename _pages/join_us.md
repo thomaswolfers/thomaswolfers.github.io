@@ -1,8 +1,7 @@
 ---
 permalink: /join_us/
+title: "Join Us"
 ---
-
-# Join Us
 
 ## Postdoc positions
 All currently available Postdoc positions are listed here.
