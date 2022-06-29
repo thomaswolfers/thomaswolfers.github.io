@@ -5,7 +5,7 @@ permalink: /join_us/
 # Join Us
 
 ## Postdoc positions
-All available Postdoc positions are listed here.
+All currently available Postdoc positions are listed here.
 
 ### I. Postdoc position in Tübingen (Germany) 
 - Payment based on German scale TV-L 13 100%
@@ -21,7 +21,7 @@ If you like to write a research proposal for your individual PostDoc funding (e.
 don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
 
 ## PhD positions
-All available PhD positions are listed here.
+All currently available PhD positions are listed here.
 
 ### Get in touch
 If you like to write a research proposal for your individual funding, don't hesitate to get in touch - dr.thomas.wolfers@gmail.com 
