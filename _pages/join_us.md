@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Positions"
+title: "Join Us"
 permalink: /join_us/
 author_profile: true
 ---
