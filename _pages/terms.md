@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /privacy/
 title: "Privacy"
 ---
 
