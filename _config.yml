@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Personalized Medicine & Machine Learning"
 title_separator          : "-"
-name                     : &name "PM&ML"
+name                     : &name "Personalized Medicine & Machine Learning"
 description              : &description "Laboratory for Personalized Medicine & Machine Learning in Tübingen"
 url                      : "https://pmml-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
