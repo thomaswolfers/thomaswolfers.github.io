@@ -22,7 +22,7 @@ don't hesitate to get in touch - dr.thomas.wolfers@gmail.com
 
 ## PhDs
 
-### No position available at moment
+### No PhD position available at moment
 Come back at a later point in time. New positions will be advertised here.
 
 ### Apply with your own proposal
