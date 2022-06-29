@@ -22,5 +22,4 @@ All currently available PhD positions are listed here.
 We always welcome motivated and interested students - dr.thomas.wolfers@gmail.com 
 
 ## Fellowships
-If you like to write a research proposal for your individual PhD or postdoc funding (e.g., Marie Curie) get in touch
-- dr.thomas.wolfers@gmail.com 
+If you like to write a research proposal for your individual PhD or postdoc funding (e.g., Marie Curie) get in touch - dr.thomas.wolfers@gmail.com 
