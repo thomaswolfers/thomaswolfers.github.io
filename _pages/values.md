@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /values/
 title: "Values"
 ---
