@@ -3,7 +3,7 @@ permalink: /collaborators/
 title: "Collaborators"
 ---
 
-We have the priveledge to collaborate with a number of exceptional labs and individuals.
+We have the privilege to collaborate with several exceptional labs and individuals.
 
 ## Nijmegen
 
