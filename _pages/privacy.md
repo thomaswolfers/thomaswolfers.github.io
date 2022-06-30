@@ -23,7 +23,7 @@ The right to erasure – You have the right to request that your personal data b
 However, we do not have such data. 
 
 ## 6) Cookies
-Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology without our knowledge. For further information, visit allaboutcookies.org.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. For further information, visit allaboutcookies.org.
 
 ## 7) What types of cookies do we use?
 If at all functional cookies
