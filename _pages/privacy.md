@@ -31,7 +31,7 @@ If at all functional cookies
 ### 8) How to manage cookies?
 You can set your browser not to accept cookies. For further information, visit allaboutcookies.org
 
-### 9) Privacy policies of other websites
+### 9) Policies of other websites
 The website contains links to other websites. Our privacy policy applies only to our website.
 
 ### 10) Analytics software
