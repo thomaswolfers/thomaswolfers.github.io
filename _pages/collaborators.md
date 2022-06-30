@@ -1,8 +1,6 @@
 ---
-layout: archive
 permalink: /collaborators/
 title: "Collaborators"
-author_profile: true
 ---
 
 ## Statement of collaboration

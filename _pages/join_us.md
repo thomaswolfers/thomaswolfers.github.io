@@ -1,12 +1,10 @@
 ---
-layout: archive
 permalink: /join_us/
 title: "Join Us"
-author_profile: true
 ---
 
 ## Contact 
-Get in touch if you have any questions - dr.thomas.wolfers@gmail.com
+Get in touch if you have any questions - [email](mailto:dr.thomas.wolfers@gmail.com)
 
 ## Postdoc positions
 All currently available postdoc positions are listed here.

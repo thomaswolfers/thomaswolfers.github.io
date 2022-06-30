@@ -1,8 +1,6 @@
 ---
-layout: archive
 permalink: /research/
 title: "Research"
-author_profile: true
 ---
 
 ## Top-10 Publications
