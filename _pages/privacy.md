@@ -35,7 +35,7 @@ You can set your browser not to accept cookies. For further information, visit a
 The website contains links to other websites. Our privacy policy applies only to our website.
 
 ## 10) Analytics software
-We do not use any analytics softer such as google analytics. 
+We do not use any analytics software e.g. google analytics. 
 
 ## 11) Changes to our policy
 This website keeps its privacy policy under regular review and places any updates on this web page - update 29.06.2022
