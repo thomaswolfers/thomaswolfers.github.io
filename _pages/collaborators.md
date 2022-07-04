@@ -4,7 +4,7 @@ title: "Collaborators"
 ---
 
 ## Statement of collaboration
-We are interested in building mutual beneficial connections between scientists, labs, and companies. Over the years we have gotten the privilege to work with several exceptional individual scientists and labs. My main collaborators you find below.
+We are interested in building mutual beneficial connections between scientists, labs, and companies. Over the years we have gotten the privilege to work with several exceptional individual scientists and labs. My main collaborators you find below as substantiated by at least a number of shared articles.
 
 ## Nijmegen
 [Prof. Andre Marquand](https://www.ru.nl/personen/marquand-a) <br>
@@ -19,6 +19,7 @@ We are interested in building mutual beneficial connections between scientists, 
 [Prof. Dag Alnaes](https://www.med.uio.no/norment/personer/seniorforskere/alnes/index.html) <br>
 [Dr. Dennis v.d. Meer](https://www.med.uio.no/klinmed/english/people/aca/dennisva/index.html) <br>
 [Dr. Torgeir Moberget](https://www.med.uio.no/norment/personer/seniorforskere/torgeimo/index.html) <br>
+[Dr. Yunpeng Wang](https://www.med.uio.no/norment/forskning/aktuelt/ukas-forsker/2015/yunpeng-wang.html)
 
 ## Tübingen
 [Prof. Tobias Kaufmann](https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2468) <br>
