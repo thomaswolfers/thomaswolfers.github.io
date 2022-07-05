@@ -20,16 +20,16 @@ We do not store your data.
 We would like to make sure you are fully aware of all of your data protection rights.
 The right to access – You have the right to request copies of your personal data. 
 The right to erasure – You have the right to request that your personal data be erased.
-However, we do not have such data. 
+However, we do not have and store such data. 
 
 ## 6) Cookies
 Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. For further information, visit allaboutcookies.org.
 
 ## 7) What types of cookies do we use?
-If at all functional cookies
+If at all we use functional cookies.
 
 ## 8) How to manage cookies?
-You can set your browser not to accept cookies. For further information, visit allaboutcookies.org
+You can set your browser not to accept cookies. For further information you can visit allaboutcookies.org.
 
 ## 9) Policies of other websites
 The website contains links to other websites. Our privacy policy applies only to our website.
