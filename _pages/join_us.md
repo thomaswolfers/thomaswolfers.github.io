@@ -22,7 +22,7 @@ All currently available postdoc positions are listed here.
 All currently available PhD positions are listed here.
 
 ## Internship opportunities
-We always welcome motivated and interested students. Just send your CV and a short statement of interests.
+We always welcome motivated and interested students. Just send your CV and a short statement of interest.
 
 ## Fellowships
 If you like to write a research proposal for your individual PhD or postdoc funding (e.g., Marie Curie) please get in touch by sending your CV.
