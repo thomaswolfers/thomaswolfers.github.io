@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RindKind"
+  github           : "pmml-lab"
   google_plus      :
   keybase          :
   instagram        :
@@ -301,8 +301,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
