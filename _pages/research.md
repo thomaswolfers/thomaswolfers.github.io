@@ -8,7 +8,7 @@ title: "Research"
 <br>
 ***Foundations for Mental Health Mapping***
 <br>
-It is unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. Together with philosophers we explore the foundations of what constitutes health, disorder, or disease. We explore questions such as. What is healthy? What is the right reference group to test disease against in population science? Can we utilize systematic explorations of the mind as tools to understand it? In the long run this work will form the theoretical foundation of mental health mapping, incorporating first and third person perspectives on mental health and the absence of it. …
+It is unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. Together with philosophers we explore the foundations of what constitutes health, disorder, or disease. We explore questions such as. What is healthy? What is the right reference group to test disease against in population science? Can we utilize systematic explorations of the mind as tools to understand it? In the long run this work will form the theoretical foundation of mental health mapping, incorporating first and third person perspectives on mental health. …
 <br>
 <br>
 ***Structures for Mental Health Mapping***
