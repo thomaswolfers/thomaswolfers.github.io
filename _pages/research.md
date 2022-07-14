@@ -6,12 +6,12 @@ title: "Research"
 ## Research interests
 <br>
 <br>
-***Foundations for Mental Health Mapping***
+***Foundations of Mental Health Mapping***
 <br>
 It is unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. Together with philosophers we explore the foundations of what constitutes health, disorder, or disease. We explore questions such as. What is healthy? What is the right reference group to test disease against? Can we utilize systematic explorations of the mind as tools to understand it? In the long run this work forms the theoretical foundation of mental health mapping, incorporating first and third person perspectives on mental health. 
 <br>
 <br>
-***Structures for Mental Health Mapping***
+***Structures of Mental Health Mapping***
 <br>
 Mental disorders run in families and are heritable. Yet, in many studies’ family structures are merely considered as confounds. In our lab we explore family structures as the nexus of illness and not as a confound that hinders or distorts a given statistical estimate. In this way, we hope to shed light on interpersonal factors contributing to mental health and illness in families. Our work will be guided by questions such as what makes one sibling with a disorder different from another who is health? What are the interpersonal factors contributing to mental health and illness and does it make sense to treat the family instead of the individual with a given disorder? 
 <br>
