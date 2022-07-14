@@ -13,7 +13,7 @@ It is unclear what constitutes a disorder and what is healthy or normative, espe
 <br>
 ***Structures for Mental Health Mapping***
 <br>
-Mental disorders run in families and are heritable. Yet, in many studies’ family structures are only considered as confounds. In our lab we explore family structures as the nexus of illness and not as a confound that hinders or distorts a given statistical estimate. In this way, we hope to shed light on interpersonal factors contributing to mental health and illness in families. Our work will be guided by questions such as what makes one sibling with a disorder different from another who is health? What are the interpersonal factors contributing to mental health and illness and does it make sense to treat the family instead of the individual? …  
+Mental disorders run in families and are heritable. Yet, in many studies’ family structures are only considered as confounds. In our lab we explore family structures as the nexus of illness and not as a confound that hinders or distorts a given statistical estimate. In this way, we hope to shed light on interpersonal factors contributing to mental health and illness in families. Our work will be guided by questions such as what makes one sibling with a disorder different from another who is health? What are the interpersonal factors contributing to mental health and illness and does it make sense to treat the family instead of the individual with a given disorder? …  
 <br>
 <br>
 ***Markers for Mental Health Mapping***
