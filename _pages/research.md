@@ -7,18 +7,22 @@ title: "Research"
 <br>
 <br>
 ***Foundations for Mental Health Mapping***
+<br>
 It is unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. Together with philosophers we explore the foundations of what constitutes health, disorder, or disease. We explore questions such as. What is healthy? What is the right reference group to test disease against in population science? Can we utilize systematic explorations of the mind as tools to understand it? In the long run this work will form the theoretical foundation of mental health mapping, incorporating first and third person perspectives on mental health and the absence of it. …
 <br>
 <br>
 ***Structures for Mental Health Mapping***
+<br>
 Mental disorders run in families and are heritable. Yet, in many studies’ family structures are only considered as confounds. In our lab we explore family structures as the nexus of illness and not as a confound that hinders or distorts a given statistical estimate. In this way, we hope to shed light on interpersonal factors contributing to mental health and illness in families. Our work will be guided by questions such as what makes one sibling with a disorder different from another who is health? What are the interpersonal factors contributing to mental health and illness and does it make sense to treat the family instead of the individual? …  
 <br>
 <br>
 ***Markers for Mental Health Mapping***
+<br>
 The factors underlying our mental health are often poorly understood. We usually do not know if a given medication will work before it has been given and we have limited insight on why one treatment is preferable above another for a specific individual. We can only state with certainty, that many factors play out during development and that those factors contribute in concert to the emergence of mental health problems. Through multimodal approaches (e.g., imaging, electrophysiology, or sensors), we aim to detect hidden factors underlying illness. We will use individualized analytical approaches and will be guided by questions such as what makes one person different from another even if diagnosed with the same disorder? How can we uncover predictive markers for illness? Which data modalities are informative for which disorder? ...
 <br>
 <br>
 ***Models for Mental Health Mapping***
+<br>
 The sheer number of datapoint required to make meaningful predictions regarding the health of an individual cannot be addressed with classical approaches. Therefore, we apply and develop machine learning methods for large scale imaging, electrophysiological and sensor data. The identification of meaningful markers of health will require such techniques to be adapted to often very noisy data and labels. We will be guided by question such as how can we utilize machine learning across modalities? What methods are best to parse heterogeneity? Which longitudinal modeling procedures are best suited to deal the given properties of the underlying data structures? How can we increase the interpretability of our models and ultimately how can we make machine learning relevant for clinical practice? …
 <br>
 <br>
