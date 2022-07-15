@@ -4,22 +4,22 @@ title: "Research"
 ---
 
 <br>
-# Foundations of Mental Health Mapping 
+## Foundations of Mental Health Mapping 
 <br> 
 It is unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. Together with philosophers we explore the foundations of what constitutes health, disorder, or disease. We explore questions such as. What is healthy? What is the right reference group to test a disease against? Can we utilize systematic explorations of the mind as tools to understand it? In the long run this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives on mental health. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways. 
 <br>
 <br>
-# Structures of Mental Health Mapping
+## Structures of Mental Health Mapping
 <br> 
 Mental disorders can to some extend be considered a sociocultural phenomenon. In other environments a disorder, of course dependent on severity, may be considered a strength. Most mental disorders run, with varying degrees, in families, are heritable, comorbid, and heterogenous. In our lab we explore the structures of mental health. For instance, a family is seen as the nexus of illness and not as a confound that hinders or distorts a given statistical estimate. In this way, we aim to shed light on interpersonal factors contributing to mental health and illness. Our work will be guided by questions such as what makes one sibling with a disorder different from another who is healthy? What are the interpersonal factors contributing to mental health? Does it make sense to treat the family instead of the individual with a given disorder? We work together with scientists and clinicians who are interested in research on the structures of mental illness and work on large scale studies that contain information about such structures. 
 <br>
 <br>
-# Markers for Mental Health Mapping
+## Markers for Mental Health Mapping
 <br> 
 The markers associated with mental health or illness are often poorly understood. However, we can be quite certain that many factors play out during development, contributing to the emergence of mental health problems. We usually do not know if a given medication will work before it has been given and we have limited insights with respect to why one treatment is preferable over another. Through multimodal approaches (e.g., genetics, imaging, electrophysiology, or sensors), we aim to detect hidden factors underlying illness. We are guided by questions such as what makes one person different from another when diagnosed with the same disorder? How can we uncover predictive markers for illness? Which data modalities are informative for which disorder or disease process? We work together with scientists and clinicians interested in different disorders and diseases (e.g., schizophrenia, bipolar disorder, ADHD, Autism(s)) as well as scientist and companies with innovative approaches regarding data acquisition. 
 <br>
 <br>
-# Models for Mental Health Mapping 
+## Models for Mental Health Mapping 
 <br> 
 For individual level predictions classical statistical approaches are not suitable. Therefore, we apply and develop machine learning approaches (e.g., normative modelling, deep learning) for large scale imaging, electrophysiological, genetic and sensor data. These techniques require the adaptation to high dimensional domain data and often very unreliable labels. We will be guided by question such as how can we utilize machine learning across modalities? What methods are best to parse heterogeneity? Which longitudinal modelling procedures are suited to deal with the properties of the underlying data structures? How can we increase the interpretability of our models and ultimately how can we take machine learning from the lab into clinical practice? We work together with scientist who are interested in machine learning, statistics, and methods development.
 
