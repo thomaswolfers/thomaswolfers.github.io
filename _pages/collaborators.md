@@ -4,7 +4,7 @@ title: "Collaborators"
 ---
 
 ## Statement of collaboration
-We are interested in building mutual beneficial connections between scientists, labs, and companies. Over the years we have gotten the privilege to work with several exceptional individual scientists and labs. My main collaborators are listed below. We at least share several published articles.
+We are interested in building mutual beneficial connections between scientists, labs, and companies. Over the years we have gotten the privilege to work with several exceptional individual scientists and labs. Our main collaborators with whom we share several published articles are listed below.
 
 ## Nijmegen
 [Prof. Andre Marquand](https://www.ru.nl/personen/marquand-a) <br>
@@ -12,6 +12,7 @@ We are interested in building mutual beneficial connections between scientists, 
 [Prof. Christian Beckmann](https://www.ru.nl/personen/beckmann-c) <br>
 [Prof. Jan Buitelaar](https://www.ru.nl/personen/buitelaar-j) <br>
 [Prof. Corina Greven](https://www.ru.nl/personen/greven-c) <br>
+[Dr.Seyed Mostafa Kia](https://www.researchgate.net/profile/Seyed-Mostafa-Kia)<br>
 
 ## Oslo
 [Prof. Lars Westlye](https://www.sv.uio.no/psi/english/people/aca/larstweng) <br>
