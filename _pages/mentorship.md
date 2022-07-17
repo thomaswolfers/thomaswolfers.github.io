@@ -3,7 +3,7 @@ permalink: /mentorship/
 title: "Mentorship"
 ---
 
-When the student is ready the teacher will appear - Tao Te Ching. Finding the right mentor for a given task is an important step towards its completion. Whatever role, status, and hierarchy one has in the completion of a given task, these are considered fluent and non-substantial. The authority of competence is the only guiding principle for influence on addressing a task. In other words, the most competent person on a given task has also the most to contribute and thus the largest say with respect to strategy and execution. However, with this acknowledgment the invitation emerges to mentor fellow lab members towards a better and more fundamental understanding of a given problem and to share insights.
+When the student is ready the teacher will appear (Tao Te Ching). Finding the right mentor for a given task is an important step towards its completion. Whatever role or status one has for the completion of a given task, hierarchies are considered fluent and non-substantial. The authority of competence is the only guiding principle for influence on addressing a task. In other words, the most competent person on a given task has also the most to contribute and thus the largest say with respect to strategy and execution. However, with this acknowledgment the invitation emerges to mentor fellow lab members towards a better and more fundamental understanding of a given problem and to share insights.
 
 ## Individual mentorship for students from India
 
