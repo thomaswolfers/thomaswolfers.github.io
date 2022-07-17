@@ -3,7 +3,7 @@ permalink: /mentorship/
 title: "Mentorship"
 ---
 
-In Zen the saying goes when the student is ready the teacher appears, and we acknowledge that mentoring can only happen if the student is ready. Finding the right mentor for a given task is an important step towards its completion. Roles, status, and hierarchies are considered fluent and non-substantial. The authority of competence is the guiding principle in our lab. The most competent person for a given task has also the most to contribute and the largest say. With this acknowledgment the invitation emerges to mentor fellow lab members towards a better or more fundamental understanding of a given problem.
+In Zen the saying goes when the student is ready the teacher appears. Finding the right mentor for a given task is an important step towards its completion. Roles, status, and hierarchies are considered fluent and non-substantial. The authority of competence is the guiding principle in our lab. The most competent person for a given task has also the most to contribute and the largest say. With this acknowledgment the invitation emerges to mentor fellow lab members towards a better or more fundamental understanding of a given problem.
 
 ## Individual mentorship for students from India
 
