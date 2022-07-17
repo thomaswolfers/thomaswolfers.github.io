@@ -7,7 +7,10 @@ main:
     url: /research/   
 
   - title: "Values"
-    url: /values/    
+    url: /values/
+    
+  - title: "Mentorship"
+    url: /mentorship/
     
   - title: "Join Us"
     url: /join_us/
