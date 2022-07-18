@@ -4,6 +4,8 @@ title: "Teaching"
 ---
 In this section you find the ways in which our lab contributes to a thriving science comunity through talks, education and mentorship. This section is updated regularily but not always up to date - 18.07.2022. You can contact us in case of questions 
 
+## Talks, courses and workshops
+Talks, courses and workshops are an important askpect for a thriving scientific environment. We aim to contribute to this environment locally, nationally and internationally. You can get in touch with questions [email]().
 ## Education 
 
 The goal of our lab is to provide an environment where education is joy. While science is often an endeavor one must work on in solitude, we will provide opportunities for collaborative education whenever possible. We aim to educate competent and confident students who can complete difficult tasks for society. In our lab you will be encouraged to learn the skills and personal qualities necessary to achieve whatever goal you put your mind to. We welcome people from any background to sign up for this journey. Interdisciplinarity is our second nature, the only requirements you must fulfil are motivation and hard work, everything else can and will be learned. We are constructively critical towards each other and in this way, promote improvement in ourselves and others. In the end of your educational journey in our lab, we hope to have contributed to your independence and distinction in thought and action.
