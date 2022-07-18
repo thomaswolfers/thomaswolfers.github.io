@@ -8,10 +8,10 @@ In this section you find statements and principles of education and mentorship o
 
 The goal of our lab is to provide an environment where education is joy. While science is often an endeavor one must work on in solitude, we will provide opportunities for collaborative education whenever possible. We aim to educate competent and confident students who can complete difficult tasks for society. In our lab you will be encouraged to learn the skills and personal qualities necessary to achieve whatever goal you put your mind to. We welcome people from any background to sign up for this journey. Interdisciplinarity is our second nature, the only requirements you must fulfil are motivation and hard work, everything else can and will be learned. We are constructively critical towards each other and in this way, promote improvement in ourselves and others. In the end of your educational journey in our lab, we hope to have contributed to your independence and distinction in thought and action.
 
-### Upcoming teaching, courses, and workshops
+### Upcoming courses, and workshops
 1) Teaching at the computational psychiatry course in Zurich - September 2022 [link](https://www.translationalneuromodeling.org/cpcourse/)
 2) Co-organization of the 5th international workshop on machine learning in clinical neuroimaging - September 2022 [link](https://mlcnws.com)
-3) Invited teaching at Stanford Medicine and Engineering – November 2022
+3) Teaching at Stanford Medicine and Engineering – November 2022
 
 ## Mentorship statement
 When the student is ready the teacher will appear (Tao Te Ching). Finding the right mentor for a given task is an important step towards its completion. Whatever role or status one has for the completion of a given task, hierarchies are considered fluent and non-substantial. The authority of competence is the only guiding principle for influence on addressing a task. In other words, the most competent person on a given task has also the most to contribute and thus the largest say with respect to strategy and execution. However, with this acknowledgment the invitation emerges to mentor fellow lab members towards a better and more fundamental understanding of a given problem and to share insights.
