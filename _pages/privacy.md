@@ -21,9 +21,9 @@ We do not use any analytics software e.g., google analytics.
 Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. 
 <br> For further information you can visit allaboutcookies.org.
 
-## What types of cookies do we use?
-If we use cookies at all, these are from your browser and only used to guarantee function.
-
 ## How to manage cookies?
 You can set your browser to refuse cookies. 
 <br> For further information you can visit allaboutcookies.org.
+
+## What types of cookies do we use?
+If we use cookies at all, these are from your browser and only used to guarantee function.
