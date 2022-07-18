@@ -5,7 +5,7 @@ title: "Community"
 In this section you find ways in which our lab contributes to a thriving science community at the local, national, and international stage.
 
 ## Talks, courses, and workshops
-Talks, courses, and workshops are an important aspect for a thriving scientific environment. For instance, we coorganize [the 5th international workshop on machine learning in clinical neuroimaging](https://mlcnws.com) and teach at the [computational psychiatry course in Zürich](https://www.translationalneuromodeling.org/cpcourse/). We teach and give talks at other occasions as well and you can get in touch with questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
+Talks, courses, and workshops are an important aspect for a thriving scientific environment. For instance, we contribute to the organization of [the 5th international workshop on machine learning in clinical neuroimaging](https://mlcnws.com) at MICCAI and teach at the [computational psychiatry course in Zürich](https://www.translationalneuromodeling.org/cpcourse/). We teach and give talks at other occasions as well and you can get in touch with questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Education 
 
