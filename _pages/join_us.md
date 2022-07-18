@@ -3,7 +3,7 @@ permalink: /join_us/
 title: "Join Us"
 ---
 
-All currently available positions are listed here. You can get in touch by [email](mailto:dr.thomas.wolfers@gmail.com) if you like to write a research proposal for your individual funding (e.g., Marie Curie) or if you have any other questions. You can send your application by [email](mailto:dr.thomas.wolfers@gmail.com) to Thomas Wolfers.
+All currently available positions are listed here. You can get in touch by email if you like to write a research proposal for your individual funding (e.g., Marie Curie) or if you have any other questions. You can send your application or any inquiry to Thomas Wolfers by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Postdoc positions
 All currently available postdoc positions are listed here.
