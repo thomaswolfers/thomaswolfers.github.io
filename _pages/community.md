@@ -5,7 +5,7 @@ title: "Community"
 In this section you find the ways in which our lab contributes to a thriving science community through talks, education, and mentorship.
 
 ## Talks and workshops
-Talks and workshops are an important aspect for a thriving scientific environment. We aim to contribute to this environment locally, nationally, and internationally. You can get in touch with questions by [email](mailto:dr.thomas.wolfers@gmail.com).
+Talks and workshops are an important aspect for a thriving scientific environment. We contribute to this environment locally, nationally, and internationally. You can get in touch with questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
 
 ## Education 
 
