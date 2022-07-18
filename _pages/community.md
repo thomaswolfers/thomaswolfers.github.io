@@ -2,16 +2,18 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-In this section you find statements and principles of education and mentorship on which basis the lab operates. Further, you find all current educational and mentorship courses the lab is involved in.
+In this section you find the ways in which our lab contributes to a thriving science comunity through talks, education and mentorship. This section is updated regularily but not always up to date - 18.07.2022. You can contact us in case of questions 
 
 ## Education 
 
 The goal of our lab is to provide an environment where education is joy. While science is often an endeavor one must work on in solitude, we will provide opportunities for collaborative education whenever possible. We aim to educate competent and confident students who can complete difficult tasks for society. In our lab you will be encouraged to learn the skills and personal qualities necessary to achieve whatever goal you put your mind to. We welcome people from any background to sign up for this journey. Interdisciplinarity is our second nature, the only requirements you must fulfil are motivation and hard work, everything else can and will be learned. We are constructively critical towards each other and in this way, promote improvement in ourselves and others. In the end of your educational journey in our lab, we hope to have contributed to your independence and distinction in thought and action.
 
-### Upcoming courses, and workshops
-1) Teaching at the computational psychiatry course in Zurich - September 2022 [link](https://www.translationalneuromodeling.org/cpcourse/)
-2) Co-organization of the 5th international workshop on machine learning in clinical neuroimaging - September 2022 [link](https://mlcnws.com)
-3) Teaching at Stanford Medicine and Engineering – November 2022
+### Upcoming courses, workshops, talks
+1) Talk at Peter Dayan and Eric Schulz Group meeting at the MPI for Cyperkynetics - July 2022
+2) Talk at Christian Baumgartner's Group meeting at the Cluster of Excellence Machine Learning - July 2022
+3) Teaching at the computational psychiatry course in Zurich - September 2022 [link](https://www.translationalneuromodeling.org/cpcourse/)
+4) Co-organization of the 5th international workshop on machine learning in clinical neuroimaging - September 2022 [link](https://mlcnws.com)
+5) Teaching at Stanford Medicine and Engineering BSc and MSc programme – November 2022
 
 ## Mentorship statement
 When the student is ready the teacher will appear (Tao Te Ching). Finding the right mentor for a given task is an important step towards its execution and eventual completion. The most competent person on a given task has also the most to contribute and thus the largest say with respect to strategy and execution. From that the oblligation follows that we educate each other towards a better and more fundamental understanding of a given problem and to share insights. The mentor and student relationship is a fluctuating process. The ego, ideally, stays outside.
