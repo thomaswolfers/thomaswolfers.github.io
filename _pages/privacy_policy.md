@@ -2,7 +2,9 @@
 permalink: /privacy_policy/
 title: "Privacy Policy"
 ---
-    
+
+Here you find all information regarding our privacy policy.
+
 ## What are your rights regarding data protection?
 We would like to make sure that you are fully aware of all your data protection rights.
 <br> You have the right to request copies of your personal data from websites or companies.
