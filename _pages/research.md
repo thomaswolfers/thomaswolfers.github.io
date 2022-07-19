@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research"
 ---
 
+All research priorities of our lab are listed below.
+
 ## Foundations of Mental Health Mapping  
 It is often unclear what constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states. We explore the foundations of what constitutes health, disorder, or disease and explore questions such as: What is healthy? What is the right reference group to compare disease with? Can we utilize systematic explorations of the mind as tools to understand it? In the long run, this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways.
 
