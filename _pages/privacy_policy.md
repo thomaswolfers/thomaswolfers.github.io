@@ -1,6 +1,6 @@
 ---
-permalink: /privacy/
-title: "Privacy"
+permalink: /privacy_policy/
+title: "Privacy Policy"
 ---
     
 ## What are your rights regarding data protection?
