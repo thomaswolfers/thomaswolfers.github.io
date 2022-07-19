@@ -3,6 +3,8 @@ permalink: /collaborators/
 title: "Collaborators"
 ---
 
+Collaboration is very important for a healthy scientific environment. Therefore, we are a collaborative lab.
+
 ## Statement of collaboration
 We are interested in building mutual beneficial connections between scientists, labs, and companies. Over the years we have gotten the privilege to work with several exceptional individual scientists and labs. Our main collaborators with whom we share several published articles are listed below.
 
