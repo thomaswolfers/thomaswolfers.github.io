@@ -11,12 +11,12 @@ main:
     
   - title: "Community"
     url: /community/
-    
-  - title: "Join Us"
-    url: /join_us/
-    
+  
   - title: "Collaborators"
     url: /collaborators/
+  
+  - title: "Join Us"
+    url: /join_us/
         
-  - title: "Privacy"
-    url: /privacy/
+  - title: "Privacy Policy"
+    url: /privacy_policy/
