@@ -15,6 +15,7 @@ We are interested in building mutual beneficial connections between scientists, 
 [Prof. Jan Buitelaar](https://www.ru.nl/personen/buitelaar-j) <br>
 [Prof. Corina Greven](https://www.ru.nl/personen/greven-c) <br>
 [Dr. Seyed Mostafa Kia](https://www.researchgate.net/profile/Seyed-Mostafa-Kia)<br>
+[Dr. Alberto Llera Arenas](https://www.ru.nl/personen/llera-arenas-a)<br>
 
 ## Oslo
 [Prof. Lars Westlye](https://www.sv.uio.no/psi/english/people/aca/larstweng) <br>
