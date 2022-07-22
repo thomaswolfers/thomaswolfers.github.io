@@ -27,8 +27,16 @@ Useful links:<br>
 [Ebay_Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
 [schoener_wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
 I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus reach out to people, univeristy and collegues for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
-2) How to get registered?<br>
+2) How to calculate your income and what are the living costs?<br>
 Useful links:<br>
+[TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html) > very useful calculator for your income when you work at the University according to the TV-L payment scheme.<br>
+Living costs in Germany are currently increasing but your purchasing power is quite high in comparison to most other countries. You can find shared housing from 300 Euros per month (with many people) to flats for yourself of 100 - 150sqm between 1000-1600 Euros per month. The food is good in quality and affordable, as are drinks. I pay about 120-160 Euros for food/drinks per week and I don’t check prices at all. I have a vegetarian diet and often buy biological products.
+3) How to get registered?<br>
+Useful links:<br>
+...
+4) What insurances do I need?
+...
+6) What is a good mobile phone contract?
 ...
 
 
