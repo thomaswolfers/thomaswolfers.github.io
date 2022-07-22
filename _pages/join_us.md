@@ -26,7 +26,7 @@ Useful links:<br>
 [WG-Gesucht](https://www.wg-gesucht.de) > helpful but did not get many responses<br>
 [Ebay_Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
 [schoener_wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
-I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus reach out to people, univeristy and collegues for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
+I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus reach out to your employer, collegues and people in general for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
 2) How to calculate your income and what are the living costs?<br>
 Useful links:<br>
 [TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html) > very useful calculator for your income when you work at the University according to the TV-L payment scheme.<br>
