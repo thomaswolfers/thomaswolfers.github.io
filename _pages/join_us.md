@@ -35,8 +35,10 @@ Living costs in Germany are currently increasing but your purchasing power is qu
 Useful links:<br>
 ...
 4) What insurances do I need?
+Useful links:<br>
 ...
-6) What is a good mobile phone contract?
+5) What is a good mobile phone contract?
+Useful links:<br>
 ...
 
 
