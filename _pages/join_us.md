@@ -25,9 +25,8 @@ Useful links:<br>
 [FacebookGroup](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful in my case at least<br>
 [WG-Gesucht](https://www.wg-gesucht.de) > helpful but did not get many responses<br>
 [Ebay_Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
-[schoener_wohnen]( https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen ) > helpful email-list but did not find anything for me there<br>
-I was lucky and found my apartment via contacts at my work. Get the feeling that it often works via contacts. Thus reach out to people, univeristy and collegues for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
-<br>
+[schoener_wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
+I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus reach out to people, univeristy and collegues for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
 <br>
 2) How to get registered?<br>
 Useful links:<br>
