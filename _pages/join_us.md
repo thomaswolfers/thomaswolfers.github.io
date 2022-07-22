@@ -17,10 +17,10 @@ All currently available PhD positions are listed here.
 ## Internship opportunities
 We always welcome motivated and interested students.
 
-## ## Moving to Germany
-For about the last two decades, I have lived outside of Germany. Thus, although I am German to some extend it feels like moving to a new country. I will share my experience here and provide Tipps when moving as well as important links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if I miss information that I should include! This section will be updated regularly during my moving process.
+## ## Moving to Germany and Tübingen 
+I have lived outside of Germany for about 15 years. Thus, although I am German it feels like moving to a new country. I will share my experience here and provide Tipps when moving as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if I miss information that I should include! 
 
-### 1) How to find an appartment in Tuebingen?<br>
+### 1) How to find an appartment in Tübingen ?<br>
 Useful links:<br>
 [FacebookGroup](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful in my case at least<br>
 [WG-Gesucht](https://www.wg-gesucht.de) > helpful but did not get many responses<br>
