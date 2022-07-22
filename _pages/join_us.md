@@ -33,16 +33,37 @@ Useful links:<br>
 [TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html) > very useful calculator for your income when you work at the University<br>
 Living costs in Germany are currently increasing but your purchasing power is quite high in comparison to most other countries. You can find shared housing from ~250-300 Euros per month to flats for yourself of ~70-150 sqm between ~700-1600 Euros per month. The food is good in quality and affordable, as are drinks. I pay about 120-160 Euros for food and drinks per week and I don’t check prices at all but also do not drink much apart from water. I have a vegetarian diet and often buy biological products.
 
-### 3) How to get registered?<br>
+### 3) What can you do in Tübingen?<br>
 Useful links:<br>
 ...
 
-### 4) What insurances do I need?<br>
+### 4) How German is it and how much German do you need?<br>
 Useful links:<br>
 ...
 
-### 5) What is a good mobile phone contract?<br>
+### 5) How to get registered?<br>
 Useful links:<br>
 ...
+
+### 6) What insurances do you need?<br>
+Useful links:<br>
+...
+
+### 7) What is a good mobile phone contract?<br>
+Useful links:<br>
+...
+
+### 8) What child suppport is there?<br>
+Useful links:<br>
+...
+
+### 9) What social support systems do exist?<br>
+Useful links:<br>
+...
+
+### 10) How many vacation days you get?<br>
+Useful links:<br>
+...
+
 
 
