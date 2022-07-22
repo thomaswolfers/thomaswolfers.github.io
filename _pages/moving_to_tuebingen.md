@@ -2,7 +2,7 @@
 permalink: /moving_to_tuebingen/
 title: "Moving to Tübingen"
 ---
-I have lived outside of Germany for about 15 years. Thus, although I am German it feels like moving to a new country. I will share my experience here and provide Tipps when moving as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if I miss information that I should include! 
+I have lived outside of Germany for about 15 years. Thus, although I am German it feels like moving to a new country. I will share my experience here and provide Tipps when moving as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if I miss information that should be included! 
 
 ### 1) How to find an apartment in Tübingen?<br>
 Useful links:<br>
