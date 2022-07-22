@@ -22,10 +22,10 @@ I have lived outside of Germany for about 15 years. Thus, although I am German i
 
 ### 1) How to find an appartment in Tübingen ?<br>
 Useful links:<br>
-[FacebookGroup](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful in my case at least<br>
+[Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful in my case at least<br>
 [WG-Gesucht](https://www.wg-gesucht.de) > helpful but did not get many responses<br>
-[Ebay_Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
-[schoener_wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
+[Ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
+[schoener-wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
 I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus reach out to your employer, collegues and people in general for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
 
 ### 2) How to calculate your income and what are the living costs?<br>
