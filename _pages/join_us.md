@@ -29,7 +29,8 @@ Useful links:<br>
 <br>
 I was lucky and found my apartment via contacts at my work. Get the feeling that this often works via contacts. Thus reach out to people, univeristy and collegues for help. When you search don't get too frustrated about the process it is difficult to find something.
 <br>
-1)How to get registered?<br>
+
+2)How to get registered?<br>
 Useful links:<br>
 ...
 
