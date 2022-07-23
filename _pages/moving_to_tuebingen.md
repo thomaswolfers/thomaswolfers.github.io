@@ -30,10 +30,10 @@ Useful links:<br>
 [schoener-leben](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben) > email list for all kinds of events
 <br>
 <br>
-Tübingen is a very pretty city. It is a typical fairy-tale town and very stunning especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a[walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more. All these videos give an impression.  In Tübingen you can have great dinners, walks, relax and chill in town. 
+Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more. In Tübingen you can have great dinners, walks, relaxing evenings and chill in town. 
 <br>
 <br>
-The environment around Tübingen is stunning, you are in nature walking for a few meters. The Alps are two hours by car, and you can do all kinds of outdoors stuff in and around Tübingen. Within two hours you have all kinds of castles to visit. There are also great Saunas and baths in the area for instance in Bad Urach, which you can reach by train or car directly from the city.
+The environment around Tübingen is stunning, you are in nature after you walked for a few meters. The alps are two hours by car, and you can do all kinds of outdoors in and around Tübingen. Within two hours you have all kinds of castles to visit. There are also great Saunas and baths in the area for instance in Bad Urach, which you can reach by train or car directly from the city.
 <br>
 <br>
 As Tübingen is a student city there is some nightlife. Mostly in town but of course not comparable with cities such as Berlin. For good clubs and nightlife, you must go to Stuttgart (45 min by train) or any of the other larger cities in the area. When Stuttgart21 is finished, Tübingen will be well connected to Stuttgart, Munich, and Paris by fast trains. However, only God knows how long this will take. 
