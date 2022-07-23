@@ -13,7 +13,7 @@ Useful links:<br>
 [schoener-wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > seems helpful but did not use it
 <br>
 <br>
-Did not try it myself but a friend suggested to check out the local newspaper which are the [Schwäbisches Tagblatt] ( https://www.tagblatt.de) or the [Reutlinger General-Anzeiger](https://www.gea.de) . You can also consider advertising your search there, sometimes you get lucky. 
+Did not try it myself but a friend suggested to check out the local newspaper which are the [Schwäbisches Tagblatt](https://www.tagblatt.de) or the [Reutlinger General-Anzeiger](https://www.gea.de) . You can also consider advertising your search there, sometimes you get lucky. 
 <br>
 <br>
 Found my apartment via contacts at my work. Get the feeling that it often works in this way. Thus, reach out to your employer, colleagues, and people in general for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
