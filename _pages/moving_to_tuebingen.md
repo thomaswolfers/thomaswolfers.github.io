@@ -39,7 +39,7 @@ As Tübingen is a student city there is a bit of nightlife, but clubbing is prob
 
 ### 4) How German is it and how much German do you need?<br>
 Useful links:<br>
-[italki](wwww.italki.com) > platform to find teachers for one on one lessons online 
+[italki](https://www.italki.com) > platform to find teachers for one on one lessons online 
 <br>
 <br>
 Nowadays being German is not considered to be such a bad thing anymore. Apart from the fact that we do not have humour this change in opinion is earned! Tübingen is a German town which is visible everywhere, sometimes you print more than you would want to, forms are very prevalent, and many shops prefer your payment in paper. However, these inconveniences are played back with a very relaxing attitude and a very good vibe in town. People smile a lot and are generally very happy. 
