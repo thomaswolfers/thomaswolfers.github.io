@@ -5,12 +5,18 @@ title: "Moving to Tübingen"
 Here you find information about moving to Tübingen and Germany. You find some tips as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if information should be included! 
 
 ### 1) How to find an apartment in Tübingen?<br>
+### 1) How to find an apartment in Tübingen?<br>
 Useful links:<br>
-[Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful in my case at least<br>
-[WG-gesucht](https://www.wg-gesucht.de) > helpful but did not get many responses<br>
-[Ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but did not get many responses<br>
-[schoener-wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > helpful email-list but did not find anything for me there<br>
-I was lucky and found my apartment via contacts at my work. Get the feeling that it often works this way. Thus, reach out to your employer, collegues and people in general for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
+[Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful <br>
+[WG-gesucht](https://www.wg-gesucht.de) > helpful but difficult to get responses<br>
+[Ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but difficult to get responses<br>
+[schoener-wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > seems helpful but did not use it
+<br>
+<br>
+Did not try it myself but a friend suggested to check out the local newspaper which are the [Schwäbisches Tagblatt] ( https://www.tagblatt.de) or the [Reutlinger General-Anzeiger](https://www.gea.de) . You can also consider advertising your search there, sometimes you get lucky. 
+<br>
+<br>
+Found my apartment via contacts at my work. Get the feeling that it often works in this way. Thus, reach out to your employer, colleagues, and people in general for help. When you search don't get too frustrated about the process it is difficult to find something and a bit of luck is required.
 
 ### 2) How to calculate your income and what are the living costs?<br>
 Useful links:<br>
