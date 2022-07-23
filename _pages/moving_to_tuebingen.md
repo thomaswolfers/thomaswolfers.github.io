@@ -33,10 +33,10 @@ Useful links:<br>
 Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more. In Tübingen you can have great dinners, walks, relaxing evenings and chill in town. 
 <br>
 <br>
-The environment around Tübingen is stunning, you are in nature after you walked for a few meters. The alps are two hours by car, and you can do all kinds of outdoors in and around Tübingen. Within two hours you have all kinds of castles to visit. There are also great Saunas and baths in the area for instance in Bad Urach, which you can reach by train or car directly from the city.
+The environment around Tübingen is stunning. You are in nature after you walked for a few minutes and you can do all kinds of outdoors in and around Tübingen. The alps are two hours by car and you find castles all over, some of them [known](https://de.wikipedia.org/wiki/Schloss_Neuschwanstein) and others more [unknown](https://de.wikipedia.org/wiki/Burg_Hohenzollern). There are also great Saunas and baths in the area e.g. in Bad Urach, where can also find waterfalls. In summary, there is plenty to do in and around town.
 <br>
 <br>
-As Tübingen is a student city there is some nightlife. Mostly in town but of course not comparable with cities such as Berlin. For good clubs and nightlife, you must go to Stuttgart (45 min by train) or any of the other larger cities in the area. When Stuttgart21 is finished, Tübingen will be well connected to Stuttgart, Munich, and Paris by fast trains. However, only God knows how long this will take. 
+As Tübingen is a student city there is a bit of nightlife. Clubbing is probably better in Stuttgart, which is about 60 minutes by train. Once Stuttgart21 has been completed, Tübingen will be well connected to Stuttgart, Munich, and Paris. However, this will take some more time.
 
 ### 4) How German is it and how much German do you need?<br>
 Useful links:<br>
