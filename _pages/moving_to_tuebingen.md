@@ -32,10 +32,10 @@ Useful links:<br>
 Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more.
 <br>
 <br>
-The environment around Tübingen is stunning. You are in nature after you walked for a few minutes, and all kinds of outdoor activities are possible. The alps are two hours by car, and you find many castles some of them [known](https://de.wikipedia.org/wiki/Schloss_Neuschwanstein) and others more [unknown](https://de.wikipedia.org/wiki/Burg_Hohenzollern). There are also great saunas and baths in the area e.g., in Bad Urach, where can also find waterfalls. In summary, there is plenty to do in and around town.
+The environment around Tübingen is stunning. You are in nature after you walked for a few minutes, and all kinds of outdoor activities are possible. The alps are two hours by car, and you find many castles some of them [known](https://de.wikipedia.org/wiki/Schloss_Neuschwanstein) and others more [unknown](https://de.wikipedia.org/wiki/Burg_Hohenzollern). There are also great saunas and baths in the area e.g., in Bad Urach, where you can also find waterfalls. In summary, there is plenty to do in and around town.
 <br>
 <br>
-As Tübingen is a student city there is a bit of nightlife, but clubbing is probably better in Stuttgart (~60 min by train). You have organised parties, which are sometimes advertised via the [schoener-leben](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben) email list. If you like a beer in the evening, Tübingen has picturesque sceneries, lovely bars, and historic pubs. There are also many beautiful restaurants.
+As Tübingen is a student city there is a bit of nightlife, but clubbing is probably better in Stuttgart (~60 min by train). You have organised parties, which are sometimes advertised via the [schoener-leben](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben) email list. If you like a beer in the evening, Tübingen has picturesque sceneries, lovely bars, and historic pubs. There are also many good restaurants.
 
 ### 4) How German is it and how much German do you need?<br>
 Useful links:<br>
