@@ -5,7 +5,6 @@ title: "Moving to Tübingen"
 Here you find information about moving to Tübingen and Germany. You find some tips as well as useful links. Please write an [email](mailto:dr.thomas.wolfers@gmail.com) if information should be included! 
 
 ### 1) How to find an apartment in Tübingen?<br>
-### 1) How to find an apartment in Tübingen?<br>
 Useful links:<br>
 [Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > was not helpful for me<br>
 [WG-gesucht](https://www.wg-gesucht.de) > helpful but difficult to get responses<br>
