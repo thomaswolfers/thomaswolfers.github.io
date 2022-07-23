@@ -7,7 +7,7 @@ Here you find information about moving to Tübingen and Germany. You find some t
 ### 1) How to find an apartment in Tübingen?<br>
 ### 1) How to find an apartment in Tübingen?<br>
 Useful links:<br>
-[Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > not very helpful <br>
+[Facebook-Group](https://www.facebook.com/groups/Tuebingen.Immo) > was not helpful for me<br>
 [WG-gesucht](https://www.wg-gesucht.de) > helpful but difficult to get responses<br>
 [Ebay-Kleinanzeigen](https://www.ebay-kleinanzeigen.de) > helpful but difficult to get responses<br>
 [schoener-wohnen](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen) > seems helpful but did not use it
