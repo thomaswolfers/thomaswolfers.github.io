@@ -92,6 +92,5 @@ Day-care in Germany has a great quality. If you come with your family, your chil
 
 ### 10) How many vacation days do you have?<br>
 Useful links:<br>
-[Vacation Guide](https://www.simplegermany.com/vacation-days-in-germany/) > maybe not up to date
-Germany is among the top5 countries when it comes to paid vacation days. You have plenty days for leisure and fun, but we will make work enjoyable as well. 
+[Vacation Guide](https://www.simplegermany.com/vacation-days-in-germany/) > Germany is among the top5 countries when it comes to paid vacation days. Thus, there is plenty of time for leisure and fun. However, we will make work enjoyable as well. 
 
