@@ -48,7 +48,6 @@ Being German is not considered to be such a bad thing anymore. Apart from the fa
 <br>
 When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but I know many people who cannot speak German or do not speak it perfectly and like it a lot in Tübingen.
 
-
 ### 5) How to get registered?<br>
 Useful links:<br>
 ...
