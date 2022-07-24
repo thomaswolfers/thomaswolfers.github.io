@@ -76,6 +76,7 @@ You have all kinds of social support systems e.g., unemployment insurance as wel
 
 ### 8) What insurances do you need? <br>
 Useful links:<br>
+[Official Guide Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this guide provides some info on the required insurances<br>
 <br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance and will get some of the money back when he or she needs it. There are insurances that are required and others that are not. Google those and check what is useful for you.
