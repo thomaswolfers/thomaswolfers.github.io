@@ -68,11 +68,8 @@ Useful links:<br>
 Living costs in Germany are currently increasing but your purchasing power is high in comparison. You can find shared housing from ~250-300 Euros per month to flats for yourself of ~70-150 sqm between ~700-1600 Euros per month. The food is good in quality and affordable, as are drinks. I pay about 100-160 Euros for food and drinks per week and I don’t check prices at all. I have a vegetarian diet and often buy biological products.
 
 ### 7) What social support systems do exist?<br>
-Useful links:<br>
-[Welcome Centre @ University](https://uni-tuebingen.de/en/international/welcome-center/registration/) > here you find all kinds of useful information getting started in Tübingen.
-<br>
-<br>
-You have all kinds of social support systems e.g., unemployment insurance as well as health care insurance. You can ask the [Welcome Centre @ University](https://uni-tuebingen.de/en/international/welcome-center/registration/) for advice.
+
+You have all kinds of social support systems e.g., unemployment insurance as well as health care insurance. 
 
 ### 8) What insurances do you need? <br>
 Useful links:<br>
