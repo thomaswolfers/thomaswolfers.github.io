@@ -50,7 +50,7 @@ When you work in science, German is not a requirement. However, some of the soci
 
 ### 5) Getting started in Tübingen?<br>
 Useful links:<br>
-[Official Guide From The City of Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this is a helpful but lengthy guide to the city <br>
+[Official Guide from fhe city of Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this is a helpful but lengthy guide to the city <br>
 [WelcomeCenter@University](https://uni-tuebingen.de/en/international/welcome-center/registration/) > here you find all kinds of useful information getting started in Tuebingen.
 
 
