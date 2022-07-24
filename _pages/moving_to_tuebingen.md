@@ -76,7 +76,7 @@ You have all kinds of social support systems e.g., unemployment insurance as wel
 
 ### 8) What insurances do you need? <br>
 Useful links:<br>
-[Official Guide Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this guide provides some info on the required insurances<br>
+[Official Guide Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this guide provides some info on the required insurances
 <br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance and will get some of the money back when he or she needs it. There are insurances that are required and others that are not. Google those and check what is useful for you.
@@ -85,7 +85,7 @@ There are many public insurance schemes that provide support at old age and in c
 
 ### 9) What about child support?<br>
 Useful links:<br>
-[Family Center @ University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) > center for families with one of the family members working at the University <br>
+[Family Center @ University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) > center for families with one of the family members working at the University
 <br>
 <br>
 Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place in day-care. Usually it is for free, sometimes it is not a public day-care but private, then you must pay about ~150-250 Euros per months. Food is provided to your kids and the quality of day-care is very good. Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave. There are international schools and you can ask for advice from the [Family Centre @ University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/).
