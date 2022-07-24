@@ -47,6 +47,9 @@ Being German is not considered to be such a bad thing anymore. Apart from the fa
 <br>
 <br>
 When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but I know many people who cannot speak German or do not speak it perfectly and like it a lot in Tübingen.
+<br>
+<br>
+Depending on your residence status, you may be entitled, or even required by law, to attend a so-called integration course (German language course).
 
 ### 5) Getting started in Tübingen?<br>
 Useful links:<br>
