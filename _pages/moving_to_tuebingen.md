@@ -63,7 +63,8 @@ Useful links:<br>
 
 ### 8) What child support is there?<br>
 Useful links:<br>
-[FamilyCenter@University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
+[FamilyCenter@University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) > center for families with one of the family members working at the University
+[SomeInformation](https://www.iamexpat.de/career/working-in-germany/sick-holiday-maternity-leave) > don't know how good and up to date
 <br>
 <br>
 Daycare in Germany has a great quality. If you come with your family, your children are entitled to a place in daycare. Usually it is for free, sometimes it is not a public daycare but private, then you have to pay about ~150-250 Euros per months. Food is provided to your kids and the quality of daycare is very good. You can ask for advide from the [Family Center](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) at the University. 
