@@ -71,7 +71,9 @@ Daycare in Germany has a great quality. If you come with your family, your child
 <br>
 <br>
 Generally family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of payed parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition there is maternity leave.
-
+<br>
+<br>
+There are international schools and you can ask for advide from the [FamilyCenter@University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/).
 
 ### 9) What social support systems do exist?<br>
 Useful links:<br>
