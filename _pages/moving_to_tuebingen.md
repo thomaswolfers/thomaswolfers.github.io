@@ -63,7 +63,7 @@ Useful links:<br>
 
 ### 8) What child support is there?<br>
 Useful links:<br>
-[FamilyCenter@University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) > center for families with one of the family members working at the University
+[FamilyCenter@University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) > center for families with one of the family members working at the University <br>
 [SomeInformation](https://www.iamexpat.de/career/working-in-germany/sick-holiday-maternity-leave) > don't know how good and up to date
 <br>
 <br>
