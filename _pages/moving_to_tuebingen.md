@@ -81,7 +81,7 @@ Useful links:<br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance and will get some of the money back when he or she needs it. There are insurances that are required and others that are not. Google those and check what is useful for you.
 1)	Required insurances: 1) Health Insurance (Krankenversicherung) 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung): 5) Accident Insurance (Unfallversicherung 
-2)	Not required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung) > ***definitely get one*** 2) Household Contents Insurance (Hausratversicherung) 3) Disability Insurance (Berufsunfähigkeitsversicherung) 4) Legal Expenses Insurance  5) Life Assurance (Lebensversicherung)
+2)	Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung) > ***definitely get one*** 2) Household Contents Insurance (Hausratversicherung) 3) Disability Insurance (Berufsunfähigkeitsversicherung) 4) Legal Expenses Insurance  5) Life Assurance (Lebensversicherung)
 
 ### 9) What about child support?<br>
 Useful links:<br>
