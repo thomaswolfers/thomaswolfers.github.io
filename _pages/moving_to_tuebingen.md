@@ -20,7 +20,7 @@ Useful links: <br>
 [Official Guide Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this is a helpful guide to the city <br>
 [Welcome Centre @ University](https://uni-tuebingen.de/en/international/welcome-center/registration/) > information to get started in Tübingen.
 
-### 3) What can you do in and around Tübingen? <br>
+### 3) What can you do in and around town? <br>
 Useful links: <br>
 [schoener-leben](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben) > email list for all kinds of events
 <br>
