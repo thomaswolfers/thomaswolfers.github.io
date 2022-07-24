@@ -6,8 +6,8 @@ Here you find information about moving to Tübingen and Germany. You find some t
 
 ### 1) How is the research environment in Tübingen?<br>
 Useful links:<br>
-[University of excellence]( http://uni-tuebingen.de) > University with distinction <br>
-[IMPRS-IS]( https://imprs.is.mpg.de) > school for machine learning research <br>
+[University of excellence](http://uni-tuebingen.de) > University with distinction <br>
+[IMPRS-IS](https://imprs.is.mpg.de) > school for machine learning research <br>
 [Max Planck Campus](https://tuebingen.mpg.de/startseite) > different MPIs (e.g. intelligent systems, biological cybernetics, biology and Friedrich Miescher)
 <br>
 <br>
@@ -16,7 +16,7 @@ The research environment is fabulous. DNA was discovered here as was the mRNA te
 ### 2) Getting started in Tübingen? <br>
 Useful links: <br>
 [Official Guide Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf) > this is a helpful guide to the city <br>
-[Welcome Centre @ University] (https://uni-tuebingen.de/en/international/welcome-center/registration/) > information to get started in Tübingen.
+[Welcome Centre @ University](https://uni-tuebingen.de/en/international/welcome-center/registration/) > information to get started in Tübingen.
 
 ### 3) What can you do in and around Tübingen? <br>
 Useful links: <br>
