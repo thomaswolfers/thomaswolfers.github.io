@@ -69,7 +69,7 @@ Useful links:<br>
 Daycare in Germany has a great quality. If you come with your family, your children are entitled to a place in daycare. Usually it is for free, sometimes it is not a public daycare but private, then you have to pay about ~150-250 Euros per months. Food is provided to your kids and the quality of daycare is very good. You can ask for advide from the [Family Center](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/) at the University. 
 <br>
 <br>
-Generally family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of payed parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time.
+Generally family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of payed parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition there is maternity leave.
 
 
 ### 9) What social support systems do exist?<br>
