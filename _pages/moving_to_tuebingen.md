@@ -62,25 +62,17 @@ There are many public insurance schemes that provide support at old age and in c
 <br>
 Insurances that are required and come with your employment (check when you start working)
 1) Health Insurance (Krankenversicherung): Every person in Germany must have health insurance. There are many different health insurance companies. You can choose your health insurance company yourself.If your spouse already has health insurance coverage, you and any joint children can be co-insured (family insurance). You will be given a health insurance card as proof of your health insurance membership. Please always take the card with you when you visit a doctor because you will need to show it there.When you arrive in Germany, you can keep your foreign health insurance until you start working in Germany. If you are emplo- yed abroad but work in Germany for some time, you may also take out international health insurance in your home country.
-<br>
 2) Pension Insurance Scheme (Rentenversicherung): The old-age pension insurance scheme will pay you benefits when you are old, usually as from your 67th birthday.
-<br>
 3) Long-Term Care Insurance (Pflegeversicherung): The long-term care insurance will help you if you can no longer look after yourself. It will, for example, pay a person who assists you in the daily routine.
-<br>
 4) Unemployment Insurance (Arbeitslosenversicherung): The unemployment insurance will pay you benefits if you lose your job.
-<br>
 5) Accident Insurance (Unfallversicherung)
 The accident insurance will pay you benefits if you can no longer work as a result of an accident.
 <br>
 <br>
 More or less useful (extra) insurances. Have a critical look, insurance companies often try to sell you stuff you don't really need.
-<br>
 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung): Third-party liability insurance will cover any damage caused by you to third-party property. If you have any children, it is recommended to coinsure them. > useful insurance.
-<br>
 2) Household Contents Insurance (Hausratversicherung): Household contents insurance policies cover damage in your own household. Make sure that the insured sum does not exceed the value of items in your household. > usefulness depends on what you store in your house
-<br> 
 3) Disability Insurance (Berufsunfähigkeitsversicherung): The disability insurance provides coverage if you can no longer carry out your current occupation or are unable to work at all for various reasons.
-<br>
 4) Legal Expenses Insurance: The legal expenses insurance will help you in legal proceedings. That means that it will pay the costs for a lawyer. > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
 5) Life Assurance (Lebensversicherung). > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
 Life assurance provides financial security, for example for family members when the insured dies.
