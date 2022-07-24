@@ -69,7 +69,7 @@ Useful links:<br>
 Useful links:<br>
 ...
 
-### 10) How many vacation days you get?<br>
+### 10) How many vacation days do you have?<br>
 Useful links:<br>
 ...
 
