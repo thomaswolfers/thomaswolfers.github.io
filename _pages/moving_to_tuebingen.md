@@ -40,12 +40,13 @@ As Tübingen is a student city there is a bit of nightlife, but clubbing is prob
 ### 4) How German is it and how much German do you need?<br>
 Useful links:<br>
 [italki](https://www.italki.com) > platform to find teachers for one on one lessons online 
+[GermanCourses](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/) > German courses at the University of Tübingen
 <br>
 <br>
-Nowadays being German is not considered to be such a bad thing anymore. Apart from the fact that we do not have humour this change in opinion is earned! Tübingen is a German town which is visible everywhere, sometimes you print more than you would want to, forms are very prevalent, and many shops prefer your payment in paper. However, these inconveniences are played back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content. 
+Being German is not considered to be such a bad thing anymore. Apart from the fact that we do not have humour this change in opinion is earned! Tübingen is a beautiful German town which is visible everywhere. Sometimes this means that you fill in more forms than you would want to and that some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
 <br>
 <br>
-When you work in science, German is not a requirement but much of the social life is happening in German. Thus, it is good to learn it a bit but I know many people who cannot speak German or do not speak it perfectly and like it a lot in Tübingen.
+When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but I know many people who cannot speak German or do not speak it perfectly and like it a lot in Tübingen.
 
 
 ### 5) How to get registered?<br>
@@ -69,5 +70,9 @@ Useful links:<br>
 ...
 
 ### 10) How many vacation days you get?<br>
+Useful links:<br>
+...
+
+### 11) How is the research environment at the University?<br>
 Useful links:<br>
 ...
