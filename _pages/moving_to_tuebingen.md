@@ -9,8 +9,8 @@ Useful links:<br>
 [University of excellence](http://uni-tuebingen.de) > University with distinction <br>
 [Clinic with many outstanding research institues e.g. The German Center for Mental Health](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)  > the clinic is the largest in the region<br>
 [IMPRS-IS](https://imprs.is.mpg.de) > school for machine learning research <br>
-[Max Planck Campus](https://tuebingen.mpg.de/startseite) > different MPIs (e.g. intelligent systems, biological cybernetics, biology and Friedrich Miescher)
-[Neuroscience research environment](https://www.neuroschool-tuebingen.de) > well known neuroscience research environment <br>
+[Max Planck Campus](https://tuebingen.mpg.de/startseite) > different MPIs (e.g. intelligent systems, biological cybernetics, biology and Friedrich Miescher)<br>
+[Neuroscience research environment](https://www.neuroschool-tuebingen.de) > well known neuroscience research environment 
 <br>
 <br>
 The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies are building research labs for machine learning in Tübingen. 
