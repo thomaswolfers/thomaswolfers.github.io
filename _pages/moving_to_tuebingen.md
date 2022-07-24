@@ -78,10 +78,11 @@ More or less useful (extra) insurances. Have a critical look, insurance companie
 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung): Third-party liability insurance will cover any damage caused by you to third-party property. If you have any children, it is recommended to coinsure them. > useful insurance.
 <br>
 2) Household Contents Insurance (Hausratversicherung): Household contents insurance policies cover damage in your own household. Make sure that the insured sum does not exceed the value of items in your household. > usefulness depends on what you store in your house
-<br> Disability Insurance (Berufsunfähigkeitsversicherung): The disability insurance provides coverage if you can no longer carry out your current occupation or are unable to work at all for various reasons. > useful especially if you are young and have responsibility towards other people (family). As you get older this insurance is less useful.
+<br> 
+3) Disability Insurance (Berufsunfähigkeitsversicherung): The disability insurance provides coverage if you can no longer carry out your current occupation or are unable to work at all for various reasons.
 <br>
-Legal Expenses Insurance: The legal expenses insurance will help you in legal proceedings. That means that it will pay the costs for a lawyer. > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
-Life Assurance (Lebensversicherung). > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
+4) Legal Expenses Insurance: The legal expenses insurance will help you in legal proceedings. That means that it will pay the costs for a lawyer. > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
+5) Life Assurance (Lebensversicherung). > can be useful especially if you have difficult neighbours but most of the time it is a waste of resources.
 Life assurance provides financial security, for example for family members when the insured dies.
 
 ### 7) What is a good mobile phone contract?<br>
