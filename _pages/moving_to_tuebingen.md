@@ -6,24 +6,24 @@ Here you find information about moving to Tübingen and Germany. You find some t
 
 ### 1) How is the research environment in Tübingen?<br>
 Useful links:<br>
-[The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
-[Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
-[One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
-[IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
-[Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
-[Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
+1) [The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
+2) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
+3) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
+4) [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
+5) [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
+6) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
 The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies are building research labs for machine learning in Tübingen. 
 
 ### 2) Getting started in Tübingen? <br>
 Useful links: <br>
-[Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
-[Welcome Centre to get started at the University](https://uni-tuebingen.de/en/international/welcome-center/registration/)
+1) [Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
+2) [Welcome Centre to get started at the University](https://uni-tuebingen.de/en/international/welcome-center/registration/)
 
 ### 3) What can you do in and around town? <br>
 Useful links: <br>
-[Schöner leben email list for all kinds of events](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben)
+1) [Schöner leben email list for all kinds of events](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben)
 <br>
 <br>
 Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more.
@@ -36,10 +36,10 @@ As Tübingen is a student city there is a bit of nightlife, but clubbing is prob
 
 ### 4) How to find an apartment in Tübingen? <br>
 Useful links:<br>
-[Facebook Group](https://www.facebook.com/groups/Tuebingen.Immo)<br>
-[WG gesucht](https://www.wg-gesucht.de)<br>
-[Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de)<br>
-[Schöner wohnen email list](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen)
+1) [Facebook Group](https://www.facebook.com/groups/Tuebingen.Immo)<br>
+2) [WG gesucht](https://www.wg-gesucht.de)<br>
+3) [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de)<br>
+4) [Schöner wohnen email list](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-wohnen)
 <br>
 <br>
 Did not try it myself but a friend suggested to check out the local newspaper which are the [Schwäbisches Tagblatt](https://www.tagblatt.de) or the [Reutlinger General-Anzeiger](https://www.gea.de). You can also consider advertising your search there, sometimes you get lucky. 
@@ -49,8 +49,8 @@ I found my apartment via contacts at my work and get the feeling that it often w
 
 ### 5) How German is it and how much German do you need?<br>
 Useful links:<br>
-[italki to find one on one teaching online](https://www.italki.com)<br>
-[German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
+1) [italki to find one on one teaching online](https://www.italki.com)<br>
+2) [German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
 <br>
 <br>
 Tübingen is a beautiful German town which is visible everywhere. Sometimes this means that you fill in more forms than you would want to and that some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
@@ -63,7 +63,7 @@ Depending on your residence status, you may be entitled to attend a so-called in
 
 ### 6) How to calculate your income and what are the living costs? <br>
 Useful links:<br>
-[TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html)
+1) [TV-L calculator](https://www.oeffentlichen-dienst.de/rechner/339-2022/3846-tv-l-2022.html)
 <br>
 <br>
 Living costs in Germany are currently increasing but your purchasing power is high in comparison. You can find shared housing from ~250-300 Euros per month to flats for yourself of ~70-150 sqm between ~700-1600 Euros per month. The food is good in quality and affordable, as are drinks. I pay about 100-160 Euros for food and drinks per week and I don’t check prices at all. I have a vegetarian diet and often buy biological products.
@@ -74,7 +74,7 @@ You have all kinds of social support systems e.g., unemployment insurance, healt
 
 ### 8) What insurances do you need? <br>
 Useful links:<br>
-[Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)
+1) [Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)
 <br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance. There are insurances that are required and others that are not. Google those mentioned below and check what is useful for you.<br>
@@ -82,16 +82,16 @@ There are many public insurance schemes that provide support at old age and in c
 I)	Required insurances: 1) Health Insurance (Krankenversicherung), 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 5) Accident Insurance (Unfallversicherung) <br>
 II)	Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung), 2) Household Contents Insurance (Hausratversicherung), 3) Disability Insurance (Berufsunfähigkeitsversicherung), 4) Legal Expenses Insurance,  5) Life Assurance (Lebensversicherung)
 
-### 9) What about child support?<br>
+### 9) What about family and child support as well as care?<br>
 Useful links:<br>
-[Family center for employees at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
+1) [Family center for employees at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
 <br>
 <br>
 Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. Usually it is for free, sometimes you pay about ~150-250 Euros per months. Food is provided to the children. There are international schools as well but not needed as public schools are of great quality in general. Schools are for free.
 
 ### 10) How many vacation days do you have?<br>
 Useful links:<br>
-[Vacation guide and rules](https://www.simplegermany.com/vacation-days-in-germany/) 
+1) [Vacation guide and rules](https://www.simplegermany.com/vacation-days-in-germany/) 
 <br>
 <br>
 Germany is among the top5 countries when it comes to paid vacation days. Thus, there is plenty of time for leisure and fun. However, we will make work enjoyable as well. 
