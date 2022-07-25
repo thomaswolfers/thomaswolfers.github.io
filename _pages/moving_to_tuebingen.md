@@ -6,8 +6,9 @@ Here you find information about moving to Tübingen and Germany. You find some t
 
 ### 1) How is the research environment in Tübingen?<br>
 Useful links:<br>
-[Tübingen has university with distinction](http://uni-tuebingen.de) <br>
-[Clinic with many outstanding research institues e.g. The German Center for Mental Health](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
+[The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
+[Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
+[One of the locations of the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
 [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
 [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
 [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
