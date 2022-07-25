@@ -84,7 +84,7 @@ There are many public insurance schemes that provide support at old age and in c
 I) Payed by the employer and employee: 1) Health Insurance (Krankenversicherung), 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 
 <br>
 <br>
-II) Payed by the employer: 1) Accident Insurance (Unfallversicherung) 
+II) Payed by the employer: 1) Accident insurance at work or on your way to work (Unfallversicherung) 
 <br>
 <br>
 III) Payed by the employee: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung), 2) Household Contents Insurance (Hausratversicherung), 3) Disability Insurance (Berufsunfähigkeitsversicherung), 4) Legal Expenses Insurance,  5) Life Assurance (Lebensversicherung)
