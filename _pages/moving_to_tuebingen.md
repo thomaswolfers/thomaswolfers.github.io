@@ -7,12 +7,12 @@ Here you find information about moving to Tübingen and Germany. You find some t
 ### 1) How is the research environment in Tübingen?<br>
 Useful links:<br>
 1) [Video on the university of Tübingen and the IMPRS-IP](https://www.youtube.com/watch?v=FCJsNGT2diw)
-1) [The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
-2) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
-3) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
-4) [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
-5) [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
-6) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
+2) [The University of Tübingen has excellence status](http://uni-tuebingen.de) <br>
+3) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
+4) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
+5) [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
+6) [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
+7) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
 The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies are building research labs for machine learning in Tübingen. 
