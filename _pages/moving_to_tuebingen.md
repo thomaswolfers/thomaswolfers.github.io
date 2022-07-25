@@ -85,7 +85,7 @@ Useful links:<br>
 [Family center for employees at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/family-and-children/)
 <br>
 <br>
-Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. Usually it is for free, sometimes it is a private daycare, then you must pay about ~150-250 Euros per months. Food is provided to your kids. There are international schools as well.
+Generally, family support in Germany is fabulous. You get extra financial support and have the right to take up to 14 months of paid parental leave at 60% of your last salary after you/or your partner gave birth. As a family you can decide how you share this time. In addition, there is maternity leave to recover and prepare for giving birth (14 weeks) also the father gets some time. Day-care in Germany has a great quality. If you come with your family, your children are entitled to a place. Usually it is for free, sometimes you pay about ~150-250 Euros per months. Food is provided to the children. There are international schools as well.
 
 ### 10) How many vacation days do you have?<br>
 Useful links:<br>
