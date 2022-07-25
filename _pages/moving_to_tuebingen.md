@@ -10,7 +10,7 @@ Useful links:<br>
 [Clinic with many outstanding research institues e.g. The German Center for Mental Health](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
 [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
 [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
-[Well known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
+[Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
 The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies are building research labs for machine learning in Tübingen. 
@@ -22,7 +22,7 @@ Useful links: <br>
 
 ### 3) What can you do in and around town? <br>
 Useful links: <br>
-[schoener-leben email list for all kinds of events](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben)
+[Schöner leben email list for all kinds of events](https://lists.schokokeks.org/mailman/listinfo.cgi/schoener-leben)
 <br>
 <br>
 Tübingen is a typical German fairy-tale town and very beautiful especially in summer. You can check out a [touristic video]( https://www.youtube.com/watch?v=fTZKXl_tUsI&t=10s) or a [video from a student]( https://www.youtube.com/watch?v=28dIzix5sG4) or a [walking tour]( https://www.youtube.com/watch?v=PDBO1AwQDO0&t=344s) if you like to see more.
@@ -78,8 +78,8 @@ Useful links:<br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance. There are insurances that are required and others that are not. Google those mentioned below and check what is useful for you.<br>
 
-1)	Required insurances: 1) Health Insurance (Krankenversicherung) 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 5) Accident Insurance (Unfallversicherung) <br>
-2)	Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung) 2) Household Contents Insurance (Hausratversicherung) 3) Disability Insurance (Berufsunfähigkeitsversicherung) 4) Legal Expenses Insurance  5) Life Assurance (Lebensversicherung)
+I)	Required insurances: 1) Health Insurance (Krankenversicherung), 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 5) Accident Insurance (Unfallversicherung) <br>
+II)	Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung), 2) Household Contents Insurance (Hausratversicherung), 3) Disability Insurance (Berufsunfähigkeitsversicherung), 4) Legal Expenses Insurance,  5) Life Assurance (Lebensversicherung)
 
 ### 9) What about child support?<br>
 Useful links:<br>
