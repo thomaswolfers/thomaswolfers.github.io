@@ -77,10 +77,13 @@ Useful links:<br>
 1) [Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)
 <br>
 <br>
-There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance. There are insurances that are required and others that are not. Google those mentioned below and check what is useful for you.<br>
-
-I)	Required insurances: 1) Health Insurance (Krankenversicherung), 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 5) Accident Insurance (Unfallversicherung) <br>
-II)	Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung), 2) Household Contents Insurance (Hausratversicherung), 3) Disability Insurance (Berufsunfähigkeitsversicherung), 4) Legal Expenses Insurance,  5) Life Assurance (Lebensversicherung)
+There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance. There are insurances that are required and others that are not. Google those mentioned below and check what is useful for you.
+<br>
+<br>
+I)Required insurances: 1) Health Insurance (Krankenversicherung), 2) Pension Insurance Scheme (Rentenversicherung), 3) Long-Term Care Insurance (Pflegeversicherung), 4) Unemployment Insurance (Arbeitslosenversicherung), 5) Accident Insurance (Unfallversicherung) 
+<br>
+<br>
+II)Non required insurances: 1) Third-Party Private Liability Insurance (Private Haftpflichtversicherung), 2) Household Contents Insurance (Hausratversicherung), 3) Disability Insurance (Berufsunfähigkeitsversicherung), 4) Legal Expenses Insurance,  5) Life Assurance (Lebensversicherung)
 
 ### 9) What about family and child support as well as care?<br>
 Useful links:<br>
