@@ -17,7 +17,7 @@ The research environment is fabulous. DNA was discovered here as was the mRNA te
 
 ### 2) Getting started in Tübingen? <br>
 Useful links: <br>
-[Official guide with all kinds of relevant information about moving to Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
+[Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
 [Welcome Centre to get started at the University](https://uni-tuebingen.de/en/international/welcome-center/registration/)
 
 ### 3) What can you do in and around town? <br>
@@ -73,7 +73,7 @@ You have all kinds of social support systems e.g., unemployment insurance, healt
 
 ### 8) What insurances do you need? <br>
 Useful links:<br>
-[Official guide with all kinds of relevant information about moving to Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
+[Official guide with all kinds of relevant information on Tübingen](https://www.tuebingen.de/Dateien/broschuere_willkommen_englisch.pdf)<br>
 <br>
 <br>
 There are many public insurance schemes that provide support at old age and in cases of poor health, unemployment, and accidents. Every person in employment pays contributions to such insurance and will get some of the money back when he or she needs it. There are insurances that are required and others that are not. Google those and check what is useful for you.<br>
