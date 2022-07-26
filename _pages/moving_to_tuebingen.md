@@ -15,7 +15,7 @@ Useful links:<br>
 7) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
-The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies are building research labs for machine learning in Tübingen. 
+The research environment is fabulous. DNA was discovered here as was the mRNA technology. The machine learning research is among the best in the world and many companies have research labs in Tübingen. Neuroscience is excellent with various research centers and Tübingen is one of the locations for the German Center for Mental Health.
 
 ### 2) Getting started in Tübingen? <br>
 Useful links: <br>
