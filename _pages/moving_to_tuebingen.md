@@ -11,7 +11,7 @@ Useful links:<br>
 3) [Clinic with many outstanding research institues](https://de.wikipedia.org/wiki/Universitätsklinikum_Tübingen)<br>
 4) [One of the locations for the German Center for Mental Health](https://dzhk.de/en/news/latest-news/article/germany-establishes-two-new-centres-for-health-research/) <br>
 5) [IMPRS-IS world leading school for machine learning](https://imprs.is.mpg.de) <br>
-6) [Three different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
+6) [Four different Max Planck Institutes on campus](https://tuebingen.mpg.de/startseite) <br>
 7) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
