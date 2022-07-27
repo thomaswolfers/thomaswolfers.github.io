@@ -5,7 +5,7 @@ title: "Community"
 In this section you find ways in which our lab contributes to a thriving science community.
 
 ## In Tübingen
-We are a part of the [Department of Psychiatry at the University of Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), which is one of the locations of the German Centre for Mental Health. Our group is an associated member of the [Cluster of Excellence: Machine Learning in Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
+We are a part of the [Department of Psychiatry at the University of Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie), which is one of the locations of the German Centre for Mental Health. Our group is an associated member of the [Cluster of Excellence: Machine Learning in Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
 
 ## Talks, courses, and workshops
 Talks, courses, and workshops are an important aspect for a thriving scientific environment. For instance, we contribute to the organization of [the 5th international workshop on machine learning in clinical neuroimaging](https://mlcnws.com) at MICCAI and teach at the [computational psychiatry course in Zürich](https://www.translationalneuromodeling.org/cpcourse/). We contribute to other events as well and are happy to answer your questions or requests by [email](mailto:dr.thomas.wolfers@gmail.com).
