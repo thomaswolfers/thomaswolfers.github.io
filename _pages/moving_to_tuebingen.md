@@ -54,7 +54,7 @@ Useful links:<br>
 2) [German language courses at the University](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/german-language-courses/)
 <br>
 <br>
-Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and that some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
+Tübingen is a beautiful German town which is visible everywhere. Sometimes you have to fill in more forms than you would want to and some shops prefer your payment in paper. However, these inconveniences are paid back through a very relaxing attitude and a very good vibe in town. People smile a lot and seem generally to be very content.
 <br>
 <br>
 When you work in science, German is not a requirement. However, some of the social life happens in German. Thus, it is good to learn it a bit, but I know many people who cannot speak German or do not speak it perfectly and like it a lot in Tübingen.
