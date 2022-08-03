@@ -27,3 +27,16 @@ You can set your browser to refuse cookies. For further information you can visi
 
 ## What types of cookies do we use?
 If we use cookies at all, these are from your browser and only used to guarantee function.
+
+### Impressum 
+According to § 5 TMG
+
+Thomas Wolfers
+Calwerstraße, 
+72076 Tübingen
+
+Represented by:
+Thomas Wolfers
+
+Contact: 
+E-Mail: dr.thomas.wolfers@gmail.com
