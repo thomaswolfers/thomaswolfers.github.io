@@ -21,5 +21,8 @@ main:
   - title: "Moving to Tübingen"
     url: /moving_to_tuebingen/
         
-  - title: "Privacy Policy & Impressum"
+  - title: "Privacy Policy"
     url: /privacy_policy/
+    
+  - title: "Impressum"
+    url: /impressum/
