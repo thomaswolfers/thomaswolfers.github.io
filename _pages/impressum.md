@@ -1,6 +1,10 @@
+---
+permalink: /impressum/
+title: "Impressum"
+---
+This is a non comercial hompage to present the scientific work of the laboratory for mental health mapping.
 
-
-## Impressum 
+## Contcat
 
 Thomas Wolfers,
 Calwerstraße 14, 
