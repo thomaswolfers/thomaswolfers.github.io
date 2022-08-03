@@ -26,7 +26,7 @@ Cookies are text files placed on your computer to collect standard internet log 
 You can set your browser to refuse cookies. For further information you can visit allaboutcookies.org.
 
 ## What types of cookies do we use?
-If we use cookies at all, these are from your browser and only used to guarantee function.
+If we use cookies at all, these are from your browser and functional.
 
 ## Impressum 
 
