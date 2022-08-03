@@ -37,10 +37,7 @@ Calwerstraße,
 Represented by:
 Thomas Wolfers
 <br> 
-<br> 
-Contact
 E-Mail: dr.thomas.wolfers@gmail.com
-<br> 
 <br> 
 According to § 5 TMG
 
