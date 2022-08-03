@@ -29,17 +29,18 @@ You can set your browser to refuse cookies. For further information you can visi
 If we use cookies at all, these are from your browser and only used to guarantee function.
 
 ## Impressum 
-According to § 5 TMG
-<br> 
-<br> 
-Thomas Wolfers
+
+Thomas Wolfers,
 Calwerstraße, 
 72076 Tübingen
-<br> 
 <br> 
 Represented by:
 Thomas Wolfers
 <br> 
 <br> 
-Contact: 
+Contact
 E-Mail: dr.thomas.wolfers@gmail.com
+<br> 
+<br> 
+According to § 5 TMG
+
