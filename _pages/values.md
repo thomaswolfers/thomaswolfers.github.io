@@ -11,7 +11,7 @@ Communication is one of the most difficult, yet one of the most important interp
 
 ## Celebrate and support each other 
 
-While there is awareness that the science of today rewards the individual rather than the group, we rejoice in the success of others. While we have limited powers to change current scientific reward systems, it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing is possible, and nothing would be achieved.
+While there is awareness that the science of today rewards the individual rather than the group, we rejoice in the success of others. We have limited powers to change current scientific reward systems, therefore it is important to acknowledge that we are part of a collective striving towards a larger goal. Without the people in our environment nothing is possible, and nothing would be achieved.
 
 ## Embrace diversity
 
