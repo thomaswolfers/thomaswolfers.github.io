@@ -15,7 +15,7 @@ Useful links:<br>
 7) [Well-known neuroscience research environment](https://tuebingenresearchcampus.com/research-in-tuebingen/tnc/)
 <br>
 <br>
-DNA was discovered here as was the mRNA technology. The machine learning research is well-known and several tech companies have or start research labs in Tübingen. Neuroscience is conducted in various research centers and Tübingen is one of the locations for the German Center for Mental Health.
+The building blocks of DNA were discovered here as well as significant advancements towards mRNA technology. The machine learning research is well-known, and several tech companies have or start research labs in Tübingen. Neuroscience is conducted in various research centers and Tübingen is one of the locations for the German Center for Mental Health.
 
 ### 2) Getting started in Tübingen? <br>
 Useful links: <br>
