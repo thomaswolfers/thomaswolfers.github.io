@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MHM"
+title                    : "Mental Health Mapping"
 title_separator          : "-"
-name                     : &name "MHM"
-description              : &description "MHM"
+name                     : &name "Mental Health Mapping"
+description              : &description "Mental Health Mapping"
 url                      : "https://mhm-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhm.github.io"
