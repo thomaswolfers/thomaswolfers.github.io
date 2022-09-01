@@ -1,25 +1,16 @@
 # main links links
 main:
-  - title: "People"
-    url: /people/
+  - title: "Science"
+    url: /science/
 
-  - title: "Research"
-    url: /research/   
+  - title: "Psyche"
+    url: /psyche/   
 
-  - title: "Values"
-    url: /values/
-    
-  - title: "Community"
-    url: /community/
+  - title: "Mind"
+    url: /mind/
   
-  - title: "Collaborators"
-    url: /collaborators/
-  
-  - title: "Join Us"
-    url: /join_us/
-    
-  - title: "Moving to Tübingen"
-    url: /moving_to_tuebingen/
+  - title: "Art"
+    url: /art/
         
   - title: "Privacy Policy"
     url: /privacy_policy/
