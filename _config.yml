@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mental Health Mapping"
+title                    : "Thomas Wolfers"
 title_separator          : "-"
-name                     : &name "Mental Health Mapping"
-description              : &description "Mental Health Mapping"
-url                      : "https://mhm-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Thomas Wolfers"
+description              : &description "Thomas Wolfers"
+url                      : "https://thomaswolfers.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mhm.github.io"
+repository               : "thomaswolfers.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "painting_tuebingen.png"
+  avatar           : "thomas.png"
   bio              : 
   location         : "Tübingen, GER"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MHM-lab"
+  github           : "thomaswolfers"
   google_plus      :
   keybase          :
   instagram        :
