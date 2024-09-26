@@ -2,15 +2,6 @@
 main:
   - title: "Science"
     url: /science/
-
-  - title: "Psyche"
-    url: /psyche/   
-
-  - title: "Mind"
-    url: /mind/
-  
-  - title: "Art"
-    url: /art/
         
   - title: "Privacy Policy"
     url: /privacy_policy/
