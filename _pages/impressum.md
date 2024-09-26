@@ -2,7 +2,7 @@
 permalink: /impressum/
 title: "Impressum"
 ---
-This is a non comercial hompage presenting the scientific work of the laboratory for mental health mapping.
+This is a non comercial hompage presenting the scientific interests of Thomas Wolfers.
 
 ## Contact
 
