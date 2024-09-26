@@ -1,9 +1,9 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /science/
+title: "Science"
 ---
 
-Research priorities are presented here.
+Science is more than my profession, I want to bring tangible progress to the life of people with a mental disorder. Through a focus on individuals as opposed to the disorder as a category, I hope to reduce stigmatization and in the long run improve our capacity to treat mechanisms causing suffering. In doing so I apply and develop machine learning methods. You can visit my [lab's home page](https://mhm-lab.github.io)
 
 ## Foundations of Mental Health Mapping  
 <img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> What constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states, can be unclear. We explore the foundations of what constitutes health, disorder, or disease and explore questions such as: What is healthy? What is the right reference group to compare disease with? Can we utilize systematic explorations of the mind as tools to understand it? In the long run, this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways.
@@ -16,28 +16,5 @@ Research priorities are presented here.
 
 ## Models for Mental Health Mapping 
 <img align="left" src="https://mhm-lab.github.io/images/models_for_mental_ health_mapping.png" width="200 px" style="padding: 10px"> Most of the research directions described above involve machine learning tools. Therefore, we apply and develop these approaches for large scale imaging, electrophysiological, genetic and sensor data. Our methods are adapted to high dimensional data and often very unreliable labels. Our work is guided by questions such as how can we utilize machine learning across modalities? What methods are best to parse heterogeneity? Which longitudinal modelling procedures are suited to deal with the properties of the underlying data structures? How can we increase the interpretability of our models and ultimately how can we take machine learning from the lab to clinical practice? We work together with scientists working on innovative data acquisition methods and are interested in method development (e.g., machine learning, statistics) as well as in establishing best practices in curating complex, large datasets required for our research agenda.
-
-## Selected Publications
-
-1.	Wolfers, Thomas; …; Marquand, Andre F; (2015). From estimating activation locality to predicting disorder: a review of pattern recognition for neuroimaging-based psychiatric diagnostics. Neuroscience & Biobehavioural Reviews. [link](https://doi.org/10.1016/j.neubiorev.2015.08.001)
-* SUMMARY: In this seminal paper, we showed that with increasing sample size the accuracy of pattern classification approaches for the prediction of mental disorders decreased. This is counterintuitive and in conflict with evidence in other fields that use pattern recognition approaches to predict e.g., image classes, likes cats and dogs. Generally, machine learning algorithms perform better with more training data. Therefore, this finding was very surprising. We could attribute it in parts to the high heterogeneity of mental disorders and a publication bias for better performing but not representative models. This work contributed to a debate on cross-validation failures and provides important evidence for the development of methods to map heterogeneity of mental disorders.
-2.	Marquand, Andre F; Wolfers, Thomas; …; Beckmann, Christian F; (2016). Beyond lumping and splitting: a review of computational approaches for stratifying psychiatric disorders. Biological psychiatry: cognitive neuroscience and neuroimaging. [link](https://doi.org/10.1016/j.bpsc.2016.04.002)
-* SUMMARY: We showed the problems of stratification approaches in psychiatry and developed a strategy based on normative modelling that can improve these problems.
-3.	Wolfers, Thomas; …; Westlye, Lars; Marquand, Andre F; (2018). Mapping the heterogeneous phenotype of schizophrenia and bipolar disorder using normative models. JAMA psychiatry. [link](https://doi.org/10.1001/jamapsychiatry.2018.2467)
-* SUMMARY: We mapped the heterogeneity of schizophrenia and bipolar disorder showing an individualized profile of deviations from the norm. These results were very surprising and framed by the media as "Who is the average patient in psychiatry?". The results have been frequently replicated by us and other groups using various algorithms and samples.
-4.	Wolfers, Thomas; …; Franke, Barbara; Marquand, Andre F; (2019) Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models. Psychological medicine. [link](https://doi.org/10.1017/S0033291719000084)
-* SUMMARY: We mapped the heterogeneity of ADHD at the level of the individual patient, showing that each patient had a distinct profile of deviations from the norm.
-5.	Wolfers, Thomas; …; Beckmann, Christian F; (2019). From pattern classification to stratification: towards conceptualizing the heterogeneity of Autism Spectrum Disorder. Neuroscience & Biobehavioral Reviews. [link](https://doi.org/10.1016/j.neubiorev.2019.07.010)
-* SUMMARY: We showed that clustering approaches used to parse the heterogeneity of Autism(s) require more external replications and validations.
-6.	Llera; Alberto; Wolfers, Thomas; …; Beckmann, Christian F; (2019) Inter-individual differences in human brain structure and morphometry link to population variation in demographics and behavior. Elife. [link](https://doi.org/10.7554/eLife.44443.001)
-* SUMMARY: We could show that brain structure explaines a large proportion of functional interactions between different regions in the healthy human brain.
-7.	Wolfers, Thomas; (2019). Towards precision medicine in psychiatry. Dissertation [link](http://hdl.handle.net/2066/201200)
-* SUMMARY: We developed a precision medicine approach for psychiatry and discussed necessary next steps and introduced a roadmap towards this goal.
-8.	Wolfers, Thomas; …; Westlye, Lars T; (2021). Replicating extensive brain structural heterogeneity in individuals with schizophrenia and bipolar disorder. Human Brain Mapping. [link](https://doi.org/10.1101/2020.05.08.20095091)
-* SUMMARY: We replicated our earlier finding that patients in schizophrenia and bipolar disorder and showed an individualized profile of normative deviations.
-9.	Rutherford, Saige; …; Wolfers, Thomas; …; Marquand, Andre F; (2022). Charting brain growth and aging at high spatial precision. Elife. [link](https://doi.org/10.7554/eLife.72904)
-* SUMMARY: We charted normative models at high spatial precision for samples that are larger than 50k individuals. This is the first massive population scale neuroimaging based normative modelling approach that can be translated to new samples and is freely available online for other scientists to use. 
-10.	Leonardsen, Esten; …; Westlye, Lars T #; Wolfers, Thomas #; Yunpeng, Wang # (2022). Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage. # shared last author [link](https://doi.org/10.1101/2021.10.29.21265645)
-* SUMMARY: We trained a deep neural network on one of the largest data resources assembled today (N > 50k) to predict the aging brain. We transferred this model to make clinical predictions and share our model and the resource for others to use.
 
 ### All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)
