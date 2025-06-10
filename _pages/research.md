@@ -3,7 +3,7 @@ permalink: /science/
 title: "Science"
 ---
 
-Science is more than my profession, I want to bring tangible progress to the life of people with a mental disorder. Through a focus on individuals as opposed to the disorder as a category, I hope to reduce stigmatization and in the long run improve our capacity to treat mechanisms causing suffering. In doing so I apply and develop machine learning methods.
+Science is more than just my profession—it’s a way to contribute to meaningful progress in the lives of people facing complex health challenges. By focusing on individuals rather than categorizing them by disorder or diagnosis, I aim to reduce stigma and, ultimately, improve our ability to understand and treat the underlying mechanisms of suffering. In this work, I apply and develop machine learning methods.
 
 ***All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)***
 
@@ -18,3 +18,26 @@ Science is more than my profession, I want to bring tangible progress to the lif
 
 ## Models for Mental Health Mapping 
 <img align="left" src="https://mhm-lab.github.io/images/models_for_mental_ health_mapping.png" width="200 px" style="padding: 10px"> Most of the research directions described above involve machine learning tools. Therefore, we apply and develop these approaches for large scale imaging, electrophysiological, genetic and sensor data. Our methods are adapted to high dimensional data and often very unreliable labels. Our work is guided by questions such as how can we utilize machine learning across modalities? What methods are best to parse heterogeneity? Which longitudinal modelling procedures are suited to deal with the properties of the underlying data structures? How can we increase the interpretability of our models and ultimately how can we take machine learning from the lab to clinical practice? We work together with scientists working on innovative data acquisition methods and are interested in method development (e.g., machine learning, statistics) as well as in establishing best practices in curating complex, large datasets required for our research agenda.
+
+<br>
+<br>
+
+Wissenschaft ist für mich mehr als nur ein Beruf – sie ist ein Weg, um echten Fortschritt im Leben von Menschen mit komplexen gesundheitlichen Herausforderungen zu bewirken. Indem ich den Fokus auf individuelle Menschen statt auf Krankheitskategorien lege, möchte ich zur Entstigmatisierung beitragen und langfristig unser Verständnis und unsere Behandlung der zugrunde liegenden Mechanismen von Leid verbessern. In dieser Arbeit setze ich Methoden des maschinellen Lernens ein und entwickle sie weiter.
+
+***Alle Publikationen finden Sie auf [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)***
+
+## Grundlagen der Mental Health Mapping  
+<img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> 
+Was eine Störung ist und was als gesund oder normativ gilt – insbesondere wenn die Störung aus ungesunden geistigen Zuständen resultiert – ist oft unklar. Wir erforschen die Grundlagen dessen, was Gesundheit, Störung oder Krankheit ausmacht, und stellen Fragen wie: Was ist gesund? Welche Referenzgruppe ist geeignet, um Krankheit zu definieren? Können systematische Erkundungen des Geistes als Werkzeuge zu seinem Verständnis dienen? Langfristig trägt diese Arbeit zur theoretischen Fundierung der Mental Health Mapping bei, indem sie Perspektiven integriert. Wir arbeiten mit Philosoph*innen, Kliniker*innen und Patient*innen zusammen, die Einblicke in die Praxis geben und unsere Wissenschaft theoretisch wie praktisch mitgestalten.
+
+## Strukturen der Mental Health Mapping  
+<img align="left" src="https://mhm-lab.github.io/images/structures_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> 
+Psychische Störungen sind vererbbar, treten häufig gemeinsam auf und sind sehr heterogen. Manchmal liegt eine beeinträchtigte Biologie im Individuum der Erkrankung zugrunde, in anderen Fällen spielen psychodynamische Prozesse zwischen Menschen, Gruppen oder gesellschaftlichen Strukturen sowie Umweltstressoren eine Rolle. Wir stellen Fragen wie: Was unterscheidet ein erkranktes Geschwisterkind von einem gesunden? Welche interpersonellen Faktoren beeinflussen die psychische Gesundheit in Familien? Wann ist es sinnvoll, Gruppen statt Einzelpersonen zu behandeln? Welche Rolle spielen gesellschaftliche Rahmenbedingungen, und welche Maßnahmen und Behandlungen verbessern die psychische Gesundheit? Wir arbeiten mit groß angelegten Studien und kooperieren mit Wissenschaftler*innen und Kliniker*innen.
+
+## Marker der Mental Health Mapping  
+<img align="left" src="https://mhm-lab.github.io/images/markers_for_mental_health_mapping.png" width="200 px" style="padding: 10px"> 
+Die Ursachen psychischer Gesundheit und Krankheit sind noch nicht gut verstanden – ein komplexes Zusammenspiel biologischer und nicht-biologischer Faktoren erzeugt individuelle Symptome. Deshalb wissen wir bisher nur wenig über Marker, die mit Erkrankungen zusammenhängen. Mit multimodalen Ansätzen versuchen wir, verborgene Faktoren aufzudecken, die Krankheiten zugrunde liegen. Leitfragen sind: Was unterscheidet zwei Menschen mit derselben Diagnose? Wie können wir prädiktive Marker identifizieren? Welche Datenmodalitäten sind bei welchen Störungen besonders aussagekräftig? Wir kooperieren mit Wissenschaftler*innen und Kliniker*innen, die sich mit unterschiedlichen Krankheitsbildern beschäftigen.
+
+## Modelle der Mental Health Mapping  
+<img align="left" src="https://mhm-lab.github.io/images/models_for_mental_ health_mapping.png" width="200 px" style="padding: 10px"> 
+Die meisten oben beschriebenen Forschungsrichtungen beruhen auf Methoden des maschinellen Lernens. Wir wenden diese auf großflächige Bildgebungs-, EEG-, Genetik- und Sensordaten an und entwickeln sie weiter. Unsere Methoden sind auf hochdimensionale Daten und oft unzuverlässige Labels ausgelegt. Unsere Arbeit wird durch Fragen geleitet wie: Wie lassen sich maschinelles Lernen und verschiedene Datenmodalitäten sinnvoll verbinden? Welche Methoden sind geeignet, um Heterogenität zu analysieren? Welche längsschnittlichen Modellierungsverfahren passen zu unseren Datenstrukturen? Wie lässt sich die Interpretierbarkeit unserer Modelle verbessern - und wie bringen wir maschinelles Lernen aus dem Labor in die klinische Praxis? Wir arbeiten mit Forschenden zusammen, die innovative Datenerhebungsmethoden entwickeln, und beschäftigen uns mit Methodik (z. B. Machine Learning, Statistik) sowie mit Best Practices in der Aufbereitung großer, komplexer Datensätze, die für unser Forschungsprogramm notwendig sind.
