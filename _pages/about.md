@@ -17,4 +17,25 @@ If you'd like to invite me to your school, community, or organization, feel free
 Please include:
 - The **topic**  
 - The **reason for the invitation**  
-- An estimate of the **expected number of attendees**
+- An estimate of the **expected number of attendees and their background**
+
+<br>
+<br>
+
+Ich bin fasziniert von der Komplexität des menschlichen Geistes - in Ordnung und Unordnung. Ich habe einen PhD in Neurowissenschaften vom Donders Institute in den Niederlanden und bin derzeit Carl-Zeiss-Professor am [Laboratory for Mental Health Mapping](https://mhm-lab.github.io) der Friedrich-Schiller-Universität Jena.  
+Du kannst mir auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social) folgen.
+
+Ein paar Mal im Jahr reise ich durch Thüringen, um mit Menschen außerhalb der Universität in Kontakt zu kommen. In einer sich schnell verändernden Welt sehe ich es als Aufgabe von Wissenschaftler*innen, den Dialog mit der Gesellschaft zu suchen.
+
+Ich biete ehrenamtlich (auf eigene Kosten) Vorträge und Gespräche zu folgenden Themen an:
+
+1. **Künstliche Intelligenz & Maschinelles Lernen**  
+2. **Gehirngesundheit, Entwicklung & Altern**  
+3. **Psychische Gesundheit**
+
+Wenn du mich an deine Schule, in deine Gemeinde oder Organisation einladen möchtest, kannst du [gerne Kontakt aufnehmen](mailto:dr.thomas.wolfers@gmail.com).  
+Bitte gib dabei Folgendes an:
+
+- Das **Thema**  
+- Den **Anlass und Ort der Einladung**  
+- Eine **geschätzte Anzahl der Teilnehmenden und deren Hintergrund**
