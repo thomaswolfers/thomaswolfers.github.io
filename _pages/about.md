@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<img align="center" src="https://mhm-lab.github.io/images/bird.png" width="1000 px" style="padding: 10px"> 
+<img align="center" src="https://github.com/thomaswolfers/images/bird.png" width="1000 px" style="padding: 10px"> 
 <br>
 
 I’m fascinated by the complexities of the human mind - in both order and disorder. I hold a PhD in neuroscience from the Donders Institute in the Netherlands and currently serve as the Carl Zeiss Professor at the [Laboratory for Mental Health Mapping](https://mhm-lab.github.io), Friedrich Schiller University Jena (Germany). You can follow me on [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social).
