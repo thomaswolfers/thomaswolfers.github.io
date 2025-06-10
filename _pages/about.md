@@ -16,7 +16,7 @@ A few times a year, I travel through Thuringia to engage with people beyond the 
 If you'd like to invite me to your school, community, or organization, feel free to [get in touch](mailto:dr.thomas.wolfers@gmail.com).  
 Please include:
 - The **topic**  
-- The **reason for the invitation**  
+- The **reason for and location of the invitation**  
 - An estimate of the **expected number of attendees and their background**
 
 <br>
