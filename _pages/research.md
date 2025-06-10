@@ -3,7 +3,7 @@ permalink: /science/
 title: "Science"
 ---
 
-Science is more than just my profession — it’s a way to contribute to meaningful progress in the lives of people facing complex health challenges. By focusing on individuals rather than categorizing them by disorder or diagnosis, I aim to reduce stigma and, ultimately, improve our ability to understand and treat the underlying mechanisms of suffering. In this work, I apply and develop machine learning methods.
+Science is more than just my profession - it’s a way to contribute to meaningful progress in the lives of people facing complex health challenges. By focusing on individuals rather than categorizing them by disorder or diagnosis, I aim to reduce stigma and, ultimately, improve our ability to understand and treat the underlying mechanisms of suffering. In this work, I apply and develop machine learning methods.
 
 ***All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)***
 
