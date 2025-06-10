@@ -22,7 +22,7 @@ Please include:
 <br>
 <br>
 
-**Deutsch:** Ich bin fasziniert von der Komplexität des menschlichen Geistes - in Ordnung und Unordnung. Ich habe einen PhD in Neurowissenschaften vom Donders Institute in den Niederlanden und bin derzeit Carl-Zeiss-Professor am [Laboratory for Mental Health Mapping](https://mhm-lab.github.io) der Friedrich-Schiller-Universität Jena. Du kannst mir auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social) folgen.
+***Auf Deutsch:*** Ich bin fasziniert von der Komplexität des menschlichen Geistes - in Ordnung und Unordnung. Ich habe einen PhD in Neurowissenschaften vom Donders Institute in den Niederlanden und bin derzeit Carl-Zeiss-Professor am [Laboratory for Mental Health Mapping](https://mhm-lab.github.io) der Friedrich-Schiller-Universität Jena. Du kannst mir auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social) folgen.
 
 Ein paar Mal im Jahr reise ich durch Thüringen, um mit Menschen außerhalb der Universität in Kontakt zu kommen. In einer sich schnell verändernden Welt sehe ich es als Aufgabe von Wissenschaftler*innen, den Dialog mit der Gesellschaft zu suchen.
 
