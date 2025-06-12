@@ -5,7 +5,7 @@ permalink: /
 <img align="center" src="https://thomaswolfers.github.io/images/bird.png" width="1000 px" style="padding: 10px"> 
 <br>
 
-I’m fascinated by the complexities of the human mind - in both order and disorder. I hold a PhD in neuroscience from the Donders Institute in the Netherlands and currently serve as an incoming Carl Zeiss Professor at the [Laboratory for Mental Health Mapping](https://mhm-lab.github.io), Friedrich Schiller University Jena (Germany) and an Emmy Noether Group Leader at the University if Tübingen. You can follow me on [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social).
+I’m fascinated by the complexities of the human mind - in both order and disorder. I hold a PhD in neuroscience from the Donders Institute in the Netherlands and currently serve as an incoming Carl Zeiss Professor at the [Laboratory for Mental Health Mapping](https://mhm-lab.github.io), Friedrich Schiller University Jena (Germany) and an Emmy Noether Group Leader at the University of Tübingen. You can follow me on [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social).
 
 A few times a year, I travel through Thuringia to engage with people beyond the university. In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own expenses) on:
 
