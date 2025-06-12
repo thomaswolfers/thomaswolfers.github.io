@@ -17,6 +17,7 @@ If you'd like to invite me to your school, community, or organization, feel free
 - The desired **topic**  
 - The **reason for and location of the invitation**  
 - An estimate of the **expected number of attendees and their background**
+- Preferred Language
 
 <br>
 <br>
@@ -36,3 +37,4 @@ Wenn du mich an deine Schule, in deine Gemeinde oder Organisation einladen möch
 - Das gewünschte **Thema**  
 - Den **Anlass und Ort der Einladung**  
 - Eine **geschätzte Anzahl der Teilnehmenden und deren Hintergrund**
+- Bevorzugte Sprache
