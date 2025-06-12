@@ -9,7 +9,7 @@ I’m fascinated by the complexities of the human mind - in both order and disor
 
 A few times a year, I travel through Thuringia to engage with people beyond the university. In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own expenses) on:
 
-1. **AI & machine learning**  
+1. **Artificial intelligence & machine learning**  
 2. **Brain health, development & aging**  
 3. **Mental health**
 
@@ -17,7 +17,7 @@ If you'd like to invite me to your school, community, or organization, feel free
 - The desired **topic**  
 - The **reason for and location of the invitation**  
 - An estimate of the **expected number of attendees and their background**
-- Preferred Language
+- Preferred language
 
 <br>
 <br>
