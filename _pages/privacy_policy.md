@@ -3,7 +3,7 @@ permalink: /privacy_policy/
 title: "Privacy Policy"
 ---
 
-Here you find all information regarding our privacy policy.
+Here you find all information regarding the privacy policy of this website.
 
 ## What are your rights regarding data protection?
 We would like to make sure that you are fully aware of all your data protection rights.
@@ -26,4 +26,4 @@ Cookies are text files placed on your computer to collect standard internet log 
 You can set your browser to refuse cookies. For further information you can visit allaboutcookies.org.
 
 ## What types of cookies do we use?
-If we use cookies at all, these are from your browser and functional.
+If we use cookies at all, these are from your browser.
