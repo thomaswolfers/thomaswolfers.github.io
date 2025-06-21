@@ -7,7 +7,7 @@ permalink: /
 
 I’m fascinated by the complexities of the human mind - in both order and disorder. I hold a PhD in neuroscience from the Donders Institute in the Netherlands and currently serve as an incoming Carl Zeiss Professor at the [Laboratory for Mental Health Mapping](https://mhm-lab.github.io), Friedrich Schiller University Jena (Germany) and an Emmy Noether Group Leader at the University of Tübingen. You can follow me on [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social).
 
-A few times a year, I travel to engage with people beyond the university. In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own expenses) on:
+A few times a year, I travel to engage with people beyond the university. In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own travel expenses within a two hour driving radius around Jena) on:
 
 1. **Artificial intelligence & machine learning**  
 2. **Brain health, development & aging**  
@@ -26,7 +26,7 @@ If you'd like to invite me to your school, community, or organization, feel free
 
 Ein paar Mal im Jahr reise ich um mit Menschen außerhalb der Universität in Kontakt zu kommen. In einer sich schnell verändernden Welt sehe ich es als Aufgabe von WissenschaftlerInnen, den Dialog mit der Gesellschaft zu suchen.
 
-Ich biete ehrenamtlich (auf eigene Kosten) Vorträge und Gespräche zu folgenden Themen an:
+Ich biete ehrenamtlich (auf eigene Kosten innerhalb eines zwei stündigen Reiseradius um Jena) Vorträge und Gespräche zu folgenden Themen an:
 
 1. **Künstliche Intelligenz & Maschinelles Lernen**  
 2. **Gehirngesundheit, Entwicklung & Altern**  
