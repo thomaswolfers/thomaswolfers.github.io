@@ -22,7 +22,7 @@ If you'd like to invite me to your school, community, or organization, feel free
 <br>
 <br>
 
-***Auf Deutsch:*** Ich bin fasziniert von der Komplexität des menschlichen Geistes - in Ordnung und Unordnung. Ich habe einen PhD in Neurowissenschaften vom Donders Institute in den Niederlanden und bin derzeit Carl-Zeiss-Professor für Künstliche Intelligenz der Bildgebung Neuraler Systeme im [Laboratory for Mental Health Mapping](https://mhm-lab.github.io) der Friedrich-Schiller-Universität Jena sowie Emmy Noether Gruppenleiter an der Unversität zu Tübingen. Du kannst mir auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social) folgen.
+***Auf Deutsch:*** Ich bin fasziniert von der Komplexität des menschlichen Geistes – in Ordnung wie in Unordnung. Nach meiner Promotion in Neurowissenschaften am Donders Institute (Niederlande) bin ich heute Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme an der Friedrich-Schiller-Universität Jena und leite dort das [Laboratory for Mental Health Mapping](https://mhm-lab.github.io). Zudem bin ich Emmy-Noether-Gruppenleiter an der Universität Tübingen. Folge mir gerne auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social)
 
 Ein paar Mal im Jahr reise ich um mit Menschen außerhalb der Universität in Kontakt zu kommen. In einer sich schnell verändernden Welt sehe ich es als Aufgabe von WissenschaftlerInnen, den Dialog mit der Gesellschaft zu suchen.
 
