@@ -30,7 +30,7 @@ In einer sich schnell verändernden Welt sehe ich es als Aufgabe von Wissenschaf
 2. **Gehirngesundheit, Entwicklung & Altern**  
 3. **Psychische Gesundheit**
 
-Wenn Sie mich an Ihre Schule, in Ihre Gemeinde, auf ihr Grillfest oder in ihre Organisation einladen möchten, können Sie [gerne Kontakt aufnehmen](mailto:dr.thomas.wolfers@gmail.com). Bitte geben Sie dabei Folgendes an:
+Wenn Sie mich an Ihre Schule, in Ihre Gemeinde, oder in Ihre Organisation einladen möchten, können Sie [gerne Kontakt aufnehmen](mailto:dr.thomas.wolfers@gmail.com). Bitte geben Sie dabei Folgendes an:
 
 - Das gewünschte **Thema**  
 - Den **Anlass und Ort der Einladung**  
