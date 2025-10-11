@@ -7,7 +7,7 @@ permalink: /
 
 I’m fascinated by the complexities of the human mind - in both order and disorder. I hold a PhD in neuroscience from the Donders Institute in the Netherlands and currently serve as Carl Zeiss Endowed Professorship for Artificial Intelligence in Neural Systems Imaging at the [Laboratory for Mental Health Mapping](https://mhm-lab.github.io), Friedrich Schiller University Jena (Germany) and an Emmy Noether Group Leader at the University of Tübingen. You can follow me on [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social).
 
-A few times a year, I travel to engage with people beyond the university. In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own travel expenses within a two hour driving radius around Jena) on:
+In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions (covering my own travel expenses within a two hour driving radius around Jena) on:
 
 1. **Artificial intelligence & machine learning**  
 2. **Brain health, development & aging**  
@@ -24,15 +24,13 @@ If you'd like to invite me to your school, community, or organization, feel free
 
 ***Auf Deutsch:*** Ich bin fasziniert von der Komplexität des menschlichen Geistes – in Ordnung wie in Unordnung. Nach meiner Promotion in Neurowissenschaften am Donders Institute (Niederlande) bin ich heute Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme an der Friedrich-Schiller-Universität Jena und leite dort das [Laboratory for Mental Health Mapping](https://mhm-lab.github.io). Zudem bin ich Emmy-Noether-Gruppenleiter an der Universität Tübingen. Folge mir gerne auf [Bluesky](https://bsky.app/profile/thomaswolfers.bsky.social)
 
-Ein paar Mal im Jahr reise ich um mit Menschen außerhalb der Universität in Kontakt zu kommen. In einer sich schnell verändernden Welt sehe ich es als Aufgabe von WissenschaftlerInnen, den Dialog mit der Gesellschaft zu suchen.
-
-Ich biete ehrenamtlich (auf eigene Kosten innerhalb eines zwei stündigen Reiseradius um Jena) Vorträge und Gespräche zu folgenden Themen an:
+In einer sich schnell verändernden Welt sehe ich es als Aufgabe von WissenschaftlerInnen, den Dialog mit der Gesellschaft zu suchen. Deshalb biete ich ehrenamtlich (auf eigene Kosten innerhalb eines zwei stündigen Reiseradius um Jena) Vorträge und Gespräche zu folgenden Themen an:
 
 1. **Künstliche Intelligenz & Maschinelles Lernen**  
 2. **Gehirngesundheit, Entwicklung & Altern**  
 3. **Psychische Gesundheit**
 
-Wenn du mich an deine Schule, in deine Gemeinde oder Organisation einladen möchtest, kannst du [gerne Kontakt aufnehmen](mailto:dr.thomas.wolfers@gmail.com). Bitte gib dabei Folgendes an:
+Wenn Sie mich an Ihre Schule, in Ihre Gemeinde, auf ihr Grillfest oder in ihre Organisation einladen möchten, können Sie [gerne Kontakt aufnehmen](mailto:dr.thomas.wolfers@gmail.com). Bitte geben Sie dabei Folgendes an:
 
 - Das gewünschte **Thema**  
 - Den **Anlass und Ort der Einladung**  
