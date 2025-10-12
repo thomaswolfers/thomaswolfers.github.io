@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Science"
+  - title: "Wissenschaft / Science"
     url: /science/
         
-  - title: "Privacy Policy"
+  - title: "Datenschutzrichtlinie / Privacy Policy"
     url: /privacy_policy/
     
   - title: "Impressum"
