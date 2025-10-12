@@ -1,6 +1,6 @@
 ---
 permalink: /science/
-title: "Science"
+title: "Wissenschaft / Science"
 ---
 
 Wissenschaft ist für mich mehr als nur ein Beruf - sie ist ein Weg, um echten Fortschritt im Leben von Menschen mit komplexen gesundheitlichen Herausforderungen zu bewirken. Indem ich den Fokus auf individuelle Menschen statt auf Krankheitskategorien lege, möchte ich zur Entstigmatisierung beitragen und langfristig unser Verständnis und unsere Behandlung der zugrunde liegenden Mechanismen von Leid verbessern. In dieser Arbeit setze ich Methoden des maschinellen Lernens ein und entwickle sie weiter.
