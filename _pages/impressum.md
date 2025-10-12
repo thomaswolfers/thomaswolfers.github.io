@@ -2,7 +2,10 @@
 permalink: /impressum/
 title: "Impressum"
 ---
-This is a non comercial hompage presenting the scientific interests of Thomas Wolfers.
+
+Dies ist eine nicht-kommerzielle Homepage, die die wissenschaftlichen Interessen von Thomas Wolfers präsentiert.
+
+**Auf Englisch** This is a non comercial hompage presenting the scientific interests of Thomas Wolfers.
 
 ## Contact
 
