@@ -1,6 +1,6 @@
 ---
 permalink: /privacy_policy/
-title: "Privacy Policy"
+title: "Datenschutzrichtlinie / Privacy Policy"
 ---
 
 Hier finden Sie alle Informationen zur Datenschutzrichtlinie dieser Website.
