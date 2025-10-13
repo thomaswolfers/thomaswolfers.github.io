@@ -5,8 +5,6 @@ title: "Wissenschaft / Science"
 
 Wissenschaft ist für mich mehr als nur ein Beruf - sie ist ein Weg, um echten Fortschritt im Leben von Menschen mit komplexen gesundheitlichen Herausforderungen zu bewirken. Indem ich den Fokus auf individuelle Menschen statt auf Krankheitskategorien lege, möchte ich zur Entstigmatisierung beitragen und langfristig unser Verständnis und unsere Behandlung der zugrunde liegenden Mechanismen von Leid verbessern. In dieser Arbeit setze ich Methoden des maschinellen Lernens ein und entwickle sie weiter.
 
-***Alle Publikationen finden Sie auf [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)***
-
 ## Grundlagen der Mental Health Mapping  
 <img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> 
 Was eine Störung ist und was als gesund oder normativ gilt – insbesondere wenn die Störung aus ungesunden geistigen Zuständen resultiert – ist oft unklar. Wir erforschen die Grundlagen dessen, was Gesundheit, Störung oder Krankheit ausmacht, und stellen Fragen wie: Was ist gesund? Welche Referenzgruppe ist geeignet, um Krankheit zu definieren? Können systematische Erkundungen des Geistes als Werkzeuge zu seinem Verständnis dienen? Langfristig trägt diese Arbeit zur theoretischen Fundierung der Mental Health Mapping bei, indem sie Perspektiven integriert. Wir arbeiten mit PhilosophInnen, KlinikerInnen und PatientInnen zusammen, die Einblicke in die Praxis geben und unsere Wissenschaft theoretisch wie praktisch mitgestalten.
@@ -27,8 +25,6 @@ Die meisten oben beschriebenen Forschungsrichtungen beruhen auf Methoden des mas
 <br>
 
 **Auf Englisch** Science is more than just my profession - it’s a way to contribute to meaningful progress in the lives of people facing complex health challenges. By focusing on individuals rather than categorizing them by disorder or diagnosis, I aim to reduce stigma and, ultimately, improve our ability to understand and treat the underlying mechanisms of suffering. In this work, I apply and develop machine learning methods.
-
-***All publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KJaA3sEAAAAJ&hl=nl)***
 
 ## Foundations of Mental Health Mapping  
 <img align="left" src="https://mhm-lab.github.io/images/foundations_of_mental_health_mapping.png" width="200 px" style="padding: 10px"> What constitutes a disorder and what is healthy or normative, especially if the disorder is a consequence of unwholesome mental states, can be unclear. We explore the foundations of what constitutes health, disorder, or disease and explore questions such as: What is healthy? What is the right reference group to compare disease with? Can we utilize systematic explorations of the mind as tools to understand it? In the long run, this work contributes to the theoretical foundation of mental health mapping, incorporating first and third person perspectives. We work together with philosophers, clinicians and patients who provide insights into clinical practice and inform our science in theoretical and practical ways.
