@@ -14,7 +14,7 @@ alt: /en/science/
 <div class="themes">
 {% for theme in site.data.themes %}
 <div class="theme" id="{{ theme.id }}">
-<img src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+<img src="/images/{{ theme.image }}" alt="{{ theme.de.title }}" width="400" height="400" loading="lazy">
 <div>
 <h2>{{ theme.de.name }}</h2>
 <p>{{ theme.de.text }} <a href="https://mhm-lab.github.io/research/#{{ theme.id }}">Mehr</a></p>

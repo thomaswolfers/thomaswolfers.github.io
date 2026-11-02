@@ -28,7 +28,7 @@ show_title: false
 <div class="cards">
 {% for theme in site.data.themes %}
 <a class="card" href="/en/science/#{{ theme.id }}">
-<img src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+<img src="/images/{{ theme.image }}" alt="{{ theme.en.title }}" width="400" height="400" loading="lazy">
 <strong>{{ theme.en.name }}</strong>
 <span>{{ theme.en.short }}</span>
 </a>

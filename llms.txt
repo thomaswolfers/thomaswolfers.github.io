@@ -1,0 +1,44 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Thomas Wolfers
+
+> Prof. Dr. Thomas Wolfers is the Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging (Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme) at Friedrich Schiller University Jena, Germany. He leads the Laboratory for Mental Health Mapping (MHM Lab), which uses machine learning and large, diverse datasets to understand mental health and illness at the level of the individual rather than the diagnostic category.
+
+## Key facts
+
+- Position: Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging, Institute of Psychology, Faculty of Social and Behavioural Sciences, Friedrich Schiller University Jena
+- Leads: Laboratory for Mental Health Mapping (MHM Lab), https://mhm-lab.github.io
+- Education: PhD in neuroscience, Donders Institute, Radboud University (Netherlands)
+- Previous research positions: Netherlands, Norway, and the United Kingdom
+- Research areas: mental health, psychiatry, machine learning, neuroimaging, normative modeling, heterogeneity of mental disorders
+- Languages: German and English
+- Contact: dr.thomas.wolfers@gmail.com
+
+## Research themes
+
+{% for theme in site.data.themes %}- {{ theme.en.title }}: {{ theme.en.text }}
+{% endfor %}
+Full descriptions: https://mhm-lab.github.io/research/
+
+## Public talks
+
+Thomas Wolfers gives pro bono talks and discussions for schools, communities, and organizations, in German or English, on three topics: (1) artificial intelligence and machine learning, (2) brain health, development, and aging, and (3) mental health. Within a two-hour drive of Jena he covers his own travel costs. To invite him, email dr.thomas.wolfers@gmail.com with the topic, occasion and location, expected number of attendees and their background, and preferred language.
+
+## Pages
+
+- [Homepage (English)]({{ site.url }}/en/): introduction and public talks
+- [Startseite (Deutsch)]({{ site.url }}/): Einführung und Vorträge
+- [Science (English)]({{ site.url }}/en/science/): the four research themes
+- [Wissenschaft (Deutsch)]({{ site.url }}/science/): die vier Forschungsthemen
+- [Impressum]({{ site.url }}/impressum/)
+
+## Elsewhere
+
+- Publications: https://scholar.google.com/citations?user=4f2rdMcAAAAJ&hl=en
+- Selected publications: https://mhm-lab.github.io/selected/
+- University profile: https://www.fsv.uni-jena.de/en/80872/czs-endowed-chair-for-artificial-intelligence-in-neural-systems-imaging
+- Bluesky: https://bsky.app/profile/thomaswolfers.bsky.social
+- LinkedIn: https://www.linkedin.com/in/thomas-wolfers-5b96694b/
+- GitHub: https://github.com/thomaswolfers

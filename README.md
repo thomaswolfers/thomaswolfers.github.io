@@ -15,6 +15,8 @@ The site is bilingual: German is the default at `/`, English lives under `/en/`.
 | Impressum, privacy policy                | `impressum.md`, `privacy_policy.md`     |
 | Colors, fonts, spacing                   | `assets/style.css`                      |
 | Search engines (sitemap, Google check)   | `sitemap.xml`, `robots.txt`, `google_site_verification` in `_config.yml` |
+| Summary for AI assistants (ChatGPT, Claude, Perplexity …) | `llms.txt` – update the key facts when your position changes |
+| Facts for Google and AI (structured data) | the `application/ld+json` block in `_layouts/default.html` |
 | Page frame (header/footer)               | `_layouts/default.html`                 |
 | Portrait                                 | `images/portrait.jpg` (400 × 400)       |
 

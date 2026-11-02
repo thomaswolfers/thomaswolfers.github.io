@@ -39,15 +39,27 @@
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="stylesheet" href="/assets/style.css">
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"ProfilePage","url":"{{ url }}","inLanguage":"{{ lang }}",
-   "mainEntity":{"@type":"Person","@id":"{{ site.url }}/#person","name":"Thomas Wolfers","url":"{{ site.url }}/",
+  {"@context":"https://schema.org","@graph":[
+   {"@type":"WebSite","@id":"{{ site.url }}/#website","url":"{{ site.url }}/","name":"Thomas Wolfers","inLanguage":["de","en"],"publisher":{"@id":"{{ site.url }}/#person"}},
+   {"@type":{% if page.url == '/' or page.url == '/en/' %}"ProfilePage"{% else %}"WebPage"{% endif %},"@id":"{{ url }}#page","url":"{{ url }}","name":"{{ full_title | escape }}","description":"{{ desc }}","inLanguage":"{{ lang }}",
+    "isPartOf":{"@id":"{{ site.url }}/#website"},"about":{"@id":"{{ site.url }}/#person"},{% if page.url == '/' or page.url == '/en/' %}"mainEntity":{"@id":"{{ site.url }}/#person"},{% endif %}"dateModified":"{{ site.time | date_to_xmlschema }}"},
+   {"@type":"Person","@id":"{{ site.url }}/#person","name":"Thomas Wolfers","givenName":"Thomas","familyName":"Wolfers","honorificPrefix":"Prof. Dr.","url":"{{ site.url }}/",
     "image":"{{ site.url }}/images/portrait.jpg","email":"mailto:dr.thomas.wolfers@gmail.com",
-    "jobTitle":"Carl Zeiss Endowed Professor for Artificial Intelligence in Neural Systems Imaging",
-    "worksFor":{"@type":"CollegeOrUniversity","name":"Friedrich Schiller University Jena","url":"https://www.uni-jena.de"},
-    "alumniOf":{"@type":"CollegeOrUniversity","name":"Radboud University"},
-    "knowsAbout":["Mental health","Machine learning","Artificial intelligence","Neuroimaging","Psychiatry","Normative modeling"],
-    "sameAs":[{% for link in site.social %}"{{ link.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}]}}
+    "description":"Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging at Friedrich Schiller University Jena, Germany. He leads the Laboratory for Mental Health Mapping, which uses machine learning and large datasets to understand mental health and illness at the level of the individual.",
+    "jobTitle":["Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging","Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme"],
+    "worksFor":{"@type":"CollegeOrUniversity","name":"Friedrich Schiller University Jena","alternateName":"Friedrich-Schiller-Universität Jena","url":"https://www.uni-jena.de",
+      "department":{"@type":"Organization","name":"Institute of Psychology, Faculty of Social and Behavioural Sciences"}},
+    "memberOf":{"@type":"ResearchOrganization","@id":"https://mhm-lab.github.io/#lab","name":"Laboratory for Mental Health Mapping","alternateName":"MHM Lab","url":"https://mhm-lab.github.io"},
+    "alumniOf":[{"@type":"CollegeOrUniversity","name":"Radboud University"},{"@type":"ResearchOrganization","name":"Donders Institute for Brain, Cognition and Behaviour"}],
+    "workLocation":{"@type":"Place","name":"Jena, Germany"},
+    "knowsLanguage":["de","en"],
+    "knowsAbout":["Mental health","Psychiatry","Machine learning","Artificial intelligence","Neuroimaging","Normative modeling","Heterogeneity of mental disorders","Brain development and aging"],
+    "makesOffer":{"@type":"Offer","price":"0","priceCurrency":"EUR","areaServed":"Within a two-hour drive of Jena, Germany",
+      "itemOffered":{"@type":"Service","name":"Pro bono public talks","description":"Talks and discussions for schools, communities, and organizations on artificial intelligence and machine learning; brain health, development, and aging; and mental health. In German or English."}},
+    "sameAs":["https://www.fsv.uni-jena.de/en/80872/czs-endowed-chair-for-artificial-intelligence-in-neural-systems-imaging",{% for link in site.social %}"{{ link.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}]}
+  ]}
   </script>
+  <link rel="alternate" type="text/markdown" title="Summary for AI assistants" href="/llms.txt">
 </head>
 <body>
 
