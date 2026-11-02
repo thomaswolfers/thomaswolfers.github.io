@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- for page in site.pages %}
+{%- if page.sitemap == false or page.layout == null or page.url contains '.xml' or page.url contains '.txt' %}{% continue %}{% endif %}
+  <url>
+    <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+    {%- if page.alt %}
+    {%- if page.lang == 'en' %}{% assign de = page.alt %}{% assign en = page.url %}{% else %}{% assign de = page.url %}{% assign en = page.alt %}{% endif %}
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url }}{{ de }}"/>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}{{ en }}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ de }}"/>
+    {%- endif %}
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+{%- endfor %}
+</urlset>

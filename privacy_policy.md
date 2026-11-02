@@ -1,4 +1,5 @@
 ---
+description: "Datenschutzerklärung der Website von Thomas Wolfers: keine Cookies, keine Analyse, kein Tracking."
 permalink: /privacy_policy/
 title: Datenschutz / Privacy Policy
 ---

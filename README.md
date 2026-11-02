@@ -8,12 +8,13 @@ The site is bilingual: German is the default at `/`, English lives under `/en/`.
 
 | To change…                               | Edit this file                          |
 |------------------------------------------|-----------------------------------------|
-| Homepage text (German / English)         | `index.html` / `en/index.html`          |
+| Homepage text (German / English)         | `index.html` / `en/index.html` (Google title and description at the top: `seo_title`, `description`) |
 | Science page intro (German / English)    | `science.html` / `en/science.html`      |
 | Research themes (cards + Science page)   | `_data/themes.yml` (both languages)     |
 | Menu, footer links, site description     | `_config.yml`                           |
 | Impressum, privacy policy                | `impressum.md`, `privacy_policy.md`     |
 | Colors, fonts, spacing                   | `assets/style.css`                      |
+| Search engines (sitemap, Google check)   | `sitemap.xml`, `robots.txt`, `google_site_verification` in `_config.yml` |
 | Page frame (header/footer)               | `_layouts/default.html`                 |
 | Portrait                                 | `images/portrait.jpg` (400 × 400)       |
 
