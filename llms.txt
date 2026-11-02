@@ -13,6 +13,7 @@ permalink: /llms.txt
 - Education: PhD in neuroscience, Donders Institute, Radboud University (Netherlands)
 - Previous research positions: Netherlands, Norway, and the United Kingdom
 - Research areas: mental health, psychiatry, machine learning, neuroimaging, normative modeling, heterogeneity of mental disorders
+- ORCID: https://orcid.org/0000-0002-7693-0621
 - Languages: German and English
 - Contact: dr.thomas.wolfers@gmail.com
 
@@ -37,6 +38,7 @@ Thomas Wolfers gives pro bono talks and discussions for schools, communities, an
 ## Elsewhere
 
 - Publications: https://scholar.google.com/citations?user=4f2rdMcAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0002-7693-0621
 - Selected publications: https://mhm-lab.github.io/selected/
 - University profile: https://www.fsv.uni-jena.de/en/80872/czs-endowed-chair-for-artificial-intelligence-in-neural-systems-imaging
 - Bluesky: https://bsky.app/profile/thomaswolfers.bsky.social

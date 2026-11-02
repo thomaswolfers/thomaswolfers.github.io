@@ -44,6 +44,7 @@
    {"@type":{% if page.url == '/' or page.url == '/en/' %}"ProfilePage"{% else %}"WebPage"{% endif %},"@id":"{{ url }}#page","url":"{{ url }}","name":"{{ full_title | escape }}","description":"{{ desc }}","inLanguage":"{{ lang }}",
     "isPartOf":{"@id":"{{ site.url }}/#website"},"about":{"@id":"{{ site.url }}/#person"},{% if page.url == '/' or page.url == '/en/' %}"mainEntity":{"@id":"{{ site.url }}/#person"},{% endif %}"dateModified":"{{ site.time | date_to_xmlschema }}"},
    {"@type":"Person","@id":"{{ site.url }}/#person","name":"Thomas Wolfers","givenName":"Thomas","familyName":"Wolfers","honorificPrefix":"Prof. Dr.","url":"{{ site.url }}/",
+    "identifier":{"@type":"PropertyValue","propertyID":"ORCID","value":"0000-0002-7693-0621","url":"https://orcid.org/0000-0002-7693-0621"},
     "image":"{{ site.url }}/images/portrait.jpg","email":"mailto:dr.thomas.wolfers@gmail.com",
     "description":"Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging at Friedrich Schiller University Jena, Germany. He leads the Laboratory for Mental Health Mapping, which uses machine learning and large datasets to understand mental health and illness at the level of the individual.",
     "jobTitle":["Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging","Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme"],
