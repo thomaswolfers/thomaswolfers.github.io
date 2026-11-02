@@ -1,0 +1,58 @@
+---
+permalink: /
+alt: /en/
+show_title: false
+---
+<!-- STARTSEITE (Deutsch). Die englische Fassung ist en/index.html. Die vier Themenkarten kommen aus _data/themes.yml -->
+
+<div class="intro">
+<img src="/images/portrait.jpg" alt="Thomas Wolfers" width="400" height="400">
+<div>
+<h1>Thomas Wolfers</h1>
+<p>Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme, Friedrich-Schiller-Universität Jena<br>
+Emmy-Noether-Gruppenleiter, Universität Tübingen</p>
+</div>
+</div>
+
+<p class="lead">
+Mich fasziniert die Komplexität des menschlichen Geistes, in Ordnung wie in Unordnung. Nach meiner Promotion in Neurowissenschaften am Donders Institute (Niederlande) und Stationen in Norwegen und Großbritannien leite ich heute das <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a> in Jena.
+</p>
+
+<div class="buttons">
+<a class="button" href="#vortraege">Vortrag anfragen</a>
+<a class="button secondary" href="/science/">Meine Forschung</a>
+</div>
+
+<h2>Wissenschaft</h2>
+<p>Ich stelle den einzelnen Menschen in den Mittelpunkt statt Diagnosekategorien. Mit maschinellem Lernen und großen Datensätzen möchte ich verstehen, was psychische Gesundheit und Krankheit ausmacht, zur Entstigmatisierung beitragen und Behandlungen langfristig verbessern.</p>
+
+<div class="cards">
+{% for theme in site.data.themes %}
+<a class="card" href="/science/#{{ theme.id }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+<strong>{{ theme.de.name }}</strong>
+<span>{{ theme.de.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<h2 id="vortraege">Vorträge für Schulen, Gemeinden und Organisationen</h2>
+<p>In einer Welt, die sich schnell verändert, sehe ich es als Aufgabe von WissenschaftlerInnen, das Gespräch mit der Gesellschaft zu suchen. Deshalb halte ich ehrenamtlich Vorträge und führe Gespräche zu drei Themen. Innerhalb von zwei Stunden Fahrzeit um Jena trage ich die Reisekosten selbst.</p>
+
+<div class="topics">
+<div class="topic"><strong>Künstliche Intelligenz und maschinelles Lernen</strong><span>Wie KI funktioniert, was sie kann und wo ihre Grenzen liegen.</span></div>
+<div class="topic"><strong>Gehirngesundheit, Entwicklung und Altern</strong><span>Wie sich das Gehirn über das Leben hinweg verändert.</span></div>
+<div class="topic"><strong>Psychische Gesundheit</strong><span>Was wir über psychische Erkrankungen wissen und was nicht.</span></div>
+</div>
+
+<p>Wenn Sie mich an Ihre Schule, in Ihre Gemeinde oder in Ihre Organisation einladen möchten, <a href="mailto:dr.thomas.wolfers@gmail.com?subject=Vortragsanfrage">schreiben Sie mir gerne</a>. Bitte nennen Sie dabei:</p>
+<ul>
+<li>das gewünschte <strong>Thema</strong>,</li>
+<li><strong>Anlass und Ort</strong> der Einladung,</li>
+<li>die ungefähre <strong>Zahl der Teilnehmenden</strong> und ihren Hintergrund,</li>
+<li>die gewünschte <strong>Sprache</strong> (Deutsch oder Englisch).</li>
+</ul>
+
+<p class="note">
+Folgen Sie mir auf <a href="https://bsky.app/profile/thomaswolfers.bsky.social">Bluesky</a> und <a href="https://www.linkedin.com/in/thomas-wolfers-5b96694b/">LinkedIn</a>. Meine Publikationen finden Sie auf <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.
+</p>

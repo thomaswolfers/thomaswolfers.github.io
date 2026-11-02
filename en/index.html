@@ -1,0 +1,58 @@
+---
+permalink: /en/
+alt: /
+show_title: false
+---
+<!-- HOMEPAGE (English). The German version is index.html. The four theme cards come from _data/themes.yml -->
+
+<div class="intro">
+<img src="/images/portrait.jpg" alt="Thomas Wolfers" width="400" height="400">
+<div>
+<h1>Thomas Wolfers</h1>
+<p>Carl Zeiss Endowed Professor for Artificial Intelligence in Neural Systems Imaging, Friedrich Schiller University Jena<br>
+Emmy Noether Group Leader, University of Tübingen</p>
+</div>
+</div>
+
+<p class="lead">
+I am fascinated by the complexity of the human mind, in both order and disorder. After a PhD in neuroscience at the Donders Institute in the Netherlands and research positions in Norway and the UK, I now lead the <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a> in Jena, Germany.
+</p>
+
+<div class="buttons">
+<a class="button" href="#talks">Invite me to speak</a>
+<a class="button secondary" href="/en/science/">My research</a>
+</div>
+
+<h2>Science</h2>
+<p>I focus on individuals rather than diagnostic categories. Using machine learning and large datasets, I aim to understand what shapes mental health and illness, to reduce stigma, and ultimately to improve treatment.</p>
+
+<div class="cards">
+{% for theme in site.data.themes %}
+<a class="card" href="/en/science/#{{ theme.id }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+<strong>{{ theme.en.name }}</strong>
+<span>{{ theme.en.short }}</span>
+</a>
+{% endfor %}
+</div>
+
+<h2 id="talks">Talks for schools, communities, and organizations</h2>
+<p>In a world of rapid change, I believe academics have a responsibility to foster public dialogue. I offer pro bono talks and discussions on three topics, and I cover my own travel costs within a two-hour drive of Jena.</p>
+
+<div class="topics">
+<div class="topic"><strong>Artificial intelligence and machine learning</strong><span>How AI works, what it can do, and where its limits are.</span></div>
+<div class="topic"><strong>Brain health, development, and aging</strong><span>How the brain changes across the lifespan.</span></div>
+<div class="topic"><strong>Mental health</strong><span>What we know about mental illness, and what we do not.</span></div>
+</div>
+
+<p>If you would like to invite me to your school, community, or organization, <a href="mailto:dr.thomas.wolfers@gmail.com?subject=Talk%20invitation">get in touch</a>. Please include:</p>
+<ul>
+<li>the <strong>topic</strong>,</li>
+<li>the <strong>occasion and location</strong>,</li>
+<li>the expected <strong>number of attendees</strong> and their background,</li>
+<li>your preferred <strong>language</strong> (German or English).</li>
+</ul>
+
+<p class="note">
+Follow me on <a href="https://bsky.app/profile/thomaswolfers.bsky.social">Bluesky</a> and <a href="https://www.linkedin.com/in/thomas-wolfers-5b96694b/">LinkedIn</a>. My publications are on <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.
+</p>

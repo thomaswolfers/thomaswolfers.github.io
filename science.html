@@ -1,0 +1,18 @@
+---
+title: Wissenschaft
+permalink: /science/
+alt: /en/science/
+---
+<!-- Die vier Themen stehen in _data/themes.yml -->
+
+<p class="lead">Wissenschaft ist für mich mehr als ein Beruf: Sie ist ein Weg, das Leben von Menschen mit komplexen gesundheitlichen Herausforderungen spürbar zu verbessern.</p>
+
+<p>Indem ich den einzelnen Menschen statt Krankheitskategorien in den Mittelpunkt stelle, möchte ich zur Entstigmatisierung beitragen und langfristig verstehen und behandeln helfen, was Leid zugrunde liegt. Dafür setze ich Methoden des maschinellen Lernens ein und entwickle sie weiter. Diese Arbeit findet im <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a> statt und gliedert sich in vier zusammenhängende Themen.</p>
+
+{% for theme in site.data.themes %}
+<h2 id="{{ theme.id }}">{{ theme.de.title }}</h2>
+<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+{{ theme.de.text | markdownify }}
+{% endfor %}
+
+<p class="note">Ausgewählte Publikationen stehen auf der <a href="https://mhm-lab.github.io/selected/">Website des Labs</a>, eine vollständige Liste auf <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
