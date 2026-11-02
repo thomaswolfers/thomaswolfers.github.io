@@ -3,16 +3,22 @@ title: Wissenschaft
 permalink: /science/
 alt: /en/science/
 ---
-<!-- Die vier Themen stehen in _data/themes.yml -->
+<!-- Kurzfassungen der vier Themen stehen in _data/themes.yml; die ausführlichen Texte stehen auf der Lab-Website -->
 
 <p class="lead">Wissenschaft ist für mich mehr als ein Beruf: Sie ist ein Weg, das Leben von Menschen mit psychischen Erkrankungen spürbar zu verbessern.</p>
 
-<p>Dafür setze ich maschinelles Lernen ein und entwickle es weiter. Die Arbeit findet gemeinsam mit meinem Team im <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a> statt und gliedert sich in vier zusammenhängende Themen.</p>
+<p>Diese Arbeit mache ich gemeinsam mit meinem Team im <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a>. Sie gliedert sich in vier Themen, die ausführlich auf der <a href="https://mhm-lab.github.io/research/">Website des Labs</a> beschrieben sind.</p>
 
+<div class="themes">
 {% for theme in site.data.themes %}
-<h2 id="{{ theme.id }}">{{ theme.de.title }}</h2>
-<img class="theme-image" src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
-{{ theme.de.text | markdownify }}
+<div class="theme" id="{{ theme.id }}">
+<img src="/images/{{ theme.image }}" alt="" width="400" height="400" loading="lazy">
+<div>
+<h2>{{ theme.de.name }}</h2>
+<p>{{ theme.de.text }} <a href="https://mhm-lab.github.io/research/#{{ theme.id }}">Mehr</a></p>
+</div>
+</div>
 {% endfor %}
+</div>
 
 <p class="note">Ausgewählte Publikationen stehen auf der <a href="https://mhm-lab.github.io/selected/">Website des Labs</a>, eine vollständige Liste auf <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.</p>

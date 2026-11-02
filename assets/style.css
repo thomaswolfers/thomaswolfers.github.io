@@ -112,10 +112,12 @@ h3 { font-size: 1.1rem; margin: 1.5em 0 0.4em; }
 
 .note { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
 
-/* ---------- research ---------- */
-.theme-image { float: right; width: 180px; margin: 0 0 1rem 1.5rem; border-radius: 8px; }
-h2 { clear: both; }
-@media (max-width: 600px) { .theme-image { float: none; display: block; width: 100%; max-width: 320px; margin: 0 0 1rem; } }
+/* ---------- science page ---------- */
+.themes { margin-top: 2rem; }
+.theme { display: flex; gap: 1.25rem; align-items: center; padding: 1.25rem 0; border-top: 1px solid var(--line); }
+.theme img { flex: 0 0 110px; width: 110px; height: 110px; object-fit: cover; border-radius: 10px; }
+.theme h2 { margin: 0 0 0.3rem; font-size: 1.15rem; }
+.theme p { margin: 0; }
 
 /* ---------- small helpers ---------- */
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
