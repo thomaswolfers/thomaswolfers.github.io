@@ -8,7 +8,8 @@ permalink: /llms.txt
 
 ## Key facts
 
-- Position: Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging, Institute of Psychology, Faculty of Social and Behavioural Sciences, Friedrich Schiller University Jena
+- Position: Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging, Friedrich Schiller University Jena
+- Faculty: Faculty of Social and Behavioural Sciences (Institute of Psychology); full secondary membership in the Faculty of Mathematics and Computer Science and the Faculty of Medicine
 - Leads: Laboratory for Mental Health Mapping (MHM Lab), https://mhm-lab.github.io
 - Education: PhD in neuroscience, Donders Institute, Radboud University (Netherlands)
 - Previous research positions: Netherlands, Norway, and the United Kingdom
