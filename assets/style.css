@@ -75,10 +75,10 @@ h3 { font-size: 1.1rem; margin: 1.5em 0 0.4em; }
 .site-footer a { color: var(--muted); }
 
 /* ---------- homepage ---------- */
-.intro { display: flex; align-items: center; gap: 1.75rem; margin-bottom: 1.5rem; }
-.intro img { flex: 0 0 150px; width: 150px; height: 150px; border-radius: 50%; }
-.intro h1 { margin: 0 0 0.3rem; }
-.intro p { margin: 0; color: var(--green); font-size: 0.95rem; font-weight: 700; line-height: 1.45; }
+.intro { display: flex; align-items: center; margin-top: 0.5rem; gap: 1.75rem; margin-bottom: 1.5rem; }
+.intro img { flex: 0 0 170px; width: 170px; height: 170px; border-radius: 50%; }
+.intro .lead { margin: 0 0 0.75rem; color: var(--ink); }
+.intro .role { margin: 0; color: var(--green); font-size: 0.85rem; font-weight: 700; line-height: 1.45; }
 @media (max-width: 600px) { .intro { flex-direction: column; align-items: flex-start; gap: 1rem; } }
 
 .lead { font-size: 1.2rem; line-height: 1.55; }
@@ -118,6 +118,7 @@ h2 { clear: both; }
 @media (max-width: 600px) { .theme-image { float: none; display: block; width: 100%; max-width: 320px; margin: 0 0 1rem; } }
 
 /* ---------- small helpers ---------- */
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .highlight {
   margin: 1.5rem 0;
   padding: 1rem 1.25rem;
