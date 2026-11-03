@@ -56,9 +56,11 @@ html { scroll-padding-top: 5.5rem; }
   padding: 0.7rem max(16px, env(safe-area-inset-left));
 }
 .site-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
   color: var(--ink);
   font-weight: 700;
-  font-size: 1.1rem;
   text-decoration: none;
 }
 /* Menu links look like buttons, so it is clear they can be clicked */

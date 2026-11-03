@@ -68,7 +68,10 @@
 
 <div class="header-bar">
 <header class="site-header">
-  <a class="site-logo" href="{{ home }}">{{ site.title }}</a>
+  <a class="site-logo" href="{{ home }}">
+    <img src="/images/logo.png" alt="" width="36" height="36">
+    <span>{{ site.title }}</span>
+  </a>
   <nav class="site-nav" aria-label="{% if lang == 'en' %}Main{% else %}Hauptmenü{% endif %}">
     {% for item in site.nav[lang] %}
       <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
