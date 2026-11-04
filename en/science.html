@@ -11,16 +11,48 @@ alt: /science/
 
 <p>I do this work together with my team in the <a href="https://mhm-lab.github.io">Laboratory for Mental Health Mapping</a>. It is organized into four themes, described in detail on the <a href="https://mhm-lab.github.io/research/">lab website</a>.</p>
 
-<div class="themes">
+<div class="theme-icons" id="themes">
 {% for theme in site.data.themes %}
-<div class="theme" id="{{ theme.id }}">
-<img src="/images/{{ theme.image }}" alt="{{ theme.en.title }}" width="400" height="400" loading="lazy">
-<div>
-<h2>{{ theme.en.name }}</h2>
-<p>{{ theme.en.text }} <a href="https://mhm-lab.github.io/research/#{{ theme.id }}">More</a></p>
-</div>
-</div>
+<a class="theme-icon" href="#{{ theme.id }}">
+<img src="/images/{{ theme.image }}" alt="{{ theme.en.title }}" width="400" height="400">
+<span>{{ theme.en.name }}</span>
+</a>
 {% endfor %}
 </div>
+<p class="hint">Click a theme to read more.</p>
+{% for theme in site.data.themes %}
+<section class="theme-panel" id="{{ theme.id }}">
+<h3>{{ theme.en.title }}</h3>
+<p>{{ theme.en.text }}</p>
+<p><a href="https://mhm-lab.github.io/research/#{{ theme.id }}">More on the lab website</a> · <a href="#themes">Close</a></p>
+</section>
+{% endfor %}
+
+<script>
+// Open a theme's text in place (no jump), mark the active icon, click again to close.
+// Without JavaScript the links still work and open the text via the #anchor.
+(function () {
+  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
+  function show(id) {
+    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  icons.forEach(function (a) {
+    a.setAttribute('aria-expanded', 'false');
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = a.getAttribute('href').slice(1);
+      var open = a.getAttribute('aria-expanded') === 'true';
+      show(open ? '' : id);
+      history.replaceState(null, '', open ? location.pathname : '#' + id);
+    });
+  });
+  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
+  });
+  var h = location.hash.slice(1), el = h && document.getElementById(h);
+  if (el && el.classList.contains('theme-panel')) show(h);
+})();
+</script>
 
 <p class="note">Selected publications are on the <a href="https://mhm-lab.github.io/research/#publications">lab website</a>, and a full list is on <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
