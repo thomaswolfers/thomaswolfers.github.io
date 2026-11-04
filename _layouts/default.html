@@ -13,6 +13,8 @@
   <meta name="author" content="Thomas Wolfers">
   {%- if page.noindex %}
   <meta name="robots" content="noindex">
+  {%- else %}
+  <meta name="robots" content="index, follow, max-image-preview:large">
   {%- endif %}
   {%- if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}">
@@ -27,6 +29,7 @@
   <meta property="og:type" content="{% if page.url == '/' or page.url == '/en/' %}profile{% else %}website{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="{% if lang == 'en' %}en_US{% else %}de_DE{% endif %}">
+  <meta property="og:locale:alternate" content="{% if lang == 'en' %}de_DE{% else %}en_US{% endif %}">
   <meta property="og:url" content="{{ url }}">
   <meta property="og:title" content="{{ full_title }}">
   <meta property="og:description" content="{{ desc }}">
@@ -37,6 +40,7 @@
   <link rel="icon" href="/favicon.ico" sizes="48x48">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <link rel="stylesheet" href="/assets/style.css">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@graph":[
@@ -72,6 +76,7 @@
     <img src="/images/enso.svg" alt="" width="34" height="34">
     <span>{{ site.title }}</span>
   </a>
+  {% if page.alt %}<a class="lang lang-mobile" href="{{ page.alt }}" hreflang="{% if lang == 'en' %}de{% else %}en{% endif %}">{% if lang == 'en' %}Deutsch{% else %}English{% endif %}</a>{% endif %}
   <nav class="site-nav" aria-label="{% if lang == 'en' %}Main{% else %}Hauptmenü{% endif %}">
     {% for item in site.nav[lang] %}
       <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
@@ -86,7 +91,7 @@
 
 <main class="content">
   {% if page.title and page.show_title != false %}<h1>{{ page.title }}</h1>{% endif %}
-  {{ content }}
+  {% if page.sections == "cards" %}{% assign parts = content | split: '<h2' %}{{ parts | first }}{% for part in parts offset: 1 %}<section class="section-card"><h2{{ part }}</section>{% endfor %}{% else %}{{ content }}{% endif %}
 </main>
 
 <footer class="site-footer">

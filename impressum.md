@@ -1,4 +1,5 @@
 ---
+sections: cards
 description: "Impressum der Website von Thomas Wolfers, Friedrich-Schiller-Universität Jena."
 permalink: /impressum/
 title: Impressum
