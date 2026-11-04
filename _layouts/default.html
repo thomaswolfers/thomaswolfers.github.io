@@ -19,6 +19,9 @@
   {%- if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}">
   {%- endif %}
+  {%- if page.redirect_to %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
+  {%- endif %}
   <link rel="canonical" href="{{ url }}">
   {%- if page.alt %}
   {%- if lang == 'en' %}{% assign de_url = page.alt %}{% else %}{% assign de_url = page.url %}{% endif %}

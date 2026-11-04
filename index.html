@@ -19,24 +19,58 @@ show_title: false
 
 <div class="buttons">
 <a class="button" href="#vortraege">Vortrag anfragen</a>
-<a class="button secondary" href="/science/">Meine Forschung</a>
+<a class="button secondary" href="https://mhm-lab.github.io/de/">Zum Lab</a>
 </div>
 
-<h2>Wissenschaft</h2>
-<p>Hinter jeder Diagnose steht ein Mensch mit einer eigenen Geschichte. Deshalb schaue ich auf den Einzelnen statt auf Kategorien. Mit maschinellem Lernen und großen Datensätzen möchte ich verstehen, was psychische Gesundheit ausmacht, und dazu beitragen, dass Behandlungen besser zu den Menschen passen, die sie brauchen.</p>
+<h2 id="wissenschaft">Wissenschaft</h2>
+<p>Hinter jeder Diagnose steht ein Mensch mit einer eigenen Geschichte. Mit maschinellem Lernen und großen Datensätzen möchte ich verstehen, was psychische Gesundheit ausmacht, damit Behandlungen besser zu den Menschen passen, die sie brauchen.</p>
 
-<div class="cards">
+<div class="theme-icons" id="themes">
 {% for theme in site.data.themes %}
-<a class="card" href="/science/#{{ theme.id }}">
+<a class="theme-icon" href="#{{ theme.id }}">
 <img src="/images/{{ theme.image }}" alt="{{ theme.de.title }}" width="400" height="400" loading="lazy">
-<strong>{{ theme.de.name }}</strong>
-<span>{{ theme.de.short }}</span>
+<span>{{ theme.de.name }}</span>
 </a>
 {% endfor %}
 </div>
+<p class="hint">Für mehr Informationen ein Thema anklicken.</p>
+{% for theme in site.data.themes %}
+<section class="theme-panel" id="{{ theme.id }}">
+<h3>{{ theme.de.title }}</h3>
+<p>{{ theme.de.text }}</p>
+<p><a href="https://mhm-lab.github.io/de/research/#{{ theme.id }}">Mehr auf der Website des Labs</a> · <a href="#themes">Schließen</a></p>
+</section>
+{% endfor %}
+
+<script>
+// Open a theme's text in place (no jump), mark the active icon, click again to close.
+// Without JavaScript the links still work and open the text via the #anchor.
+(function () {
+  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
+  function show(id) {
+    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  icons.forEach(function (a) {
+    a.setAttribute('aria-expanded', 'false');
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = a.getAttribute('href').slice(1);
+      var open = a.getAttribute('aria-expanded') === 'true';
+      show(open ? '' : id);
+      history.replaceState(null, '', open ? location.pathname : '#' + id);
+    });
+  });
+  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
+  });
+  var h = location.hash.slice(1), el = h && document.getElementById(h);
+  if (el && el.classList.contains('theme-panel')) show(h);
+})();
+</script>
 
 <h2 id="vortraege">Vorträge für Schulen, Gemeinden und Organisationen</h2>
-<p>Wissenschaft lebt vom Austausch, gerade in einer Welt, die sich so schnell verändert. Deshalb komme ich gerne zu Ihnen und spreche ehrenamtlich über drei Themen, die mir am Herzen liegen. Ihre Fragen sind dabei ausdrücklich willkommen. Innerhalb von zwei Stunden Fahrzeit um Jena trage ich die Reisekosten selbst.</p>
+<p>Wissenschaft lebt vom Austausch. Deshalb komme ich gerne zu Ihnen und spreche ehrenamtlich über drei Themen, die mir am Herzen liegen; Ihre Fragen sind ausdrücklich willkommen. Innerhalb von zwei Stunden Fahrzeit um Jena trage ich die Reisekosten selbst.</p>
 
 <div class="topics">
 <div class="topic"><strong>Künstliche Intelligenz und maschinelles Lernen</strong><span>Wie KI funktioniert, was sie kann und wo ihre Grenzen liegen.</span></div>

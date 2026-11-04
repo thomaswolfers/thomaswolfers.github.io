@@ -9,8 +9,7 @@ The site is bilingual: German is the default at `/`, English lives under `/en/`.
 | To change…                               | Edit this file                          |
 |------------------------------------------|-----------------------------------------|
 | Homepage text (German / English)         | `index.html` / `en/index.html` (Google title and description at the top: `seo_title`, `description`) |
-| Science page intro (German / English)    | `science.html` / `en/science.html`      |
-| Research themes (cards + Science page)   | `_data/themes.yml` (both languages)     |
+| Research themes (icons on the homepage)  | `_data/themes.yml` (both languages)     |
 | Menu, footer links, site description     | `_config.yml`                           |
 | Impressum, privacy policy                | `impressum.md`, `privacy_policy.md`     |
 | Colors, fonts, spacing                   | `assets/style.css`                      |

@@ -19,24 +19,58 @@ show_title: false
 
 <div class="buttons">
 <a class="button" href="#talks">Invite me to speak</a>
-<a class="button secondary" href="/en/science/">My research</a>
+<a class="button secondary" href="https://mhm-lab.github.io">Visit the lab</a>
 </div>
 
-<h2>Science</h2>
-<p>Behind every diagnosis is a person with their own story. That is why I focus on individuals rather than categories. Using machine learning and large datasets, I aim to understand what shapes mental health and to help make treatments fit the people who need them.</p>
+<h2 id="science">Science</h2>
+<p>Behind every diagnosis is a person with their own story. Using machine learning and large datasets, I aim to understand what shapes mental health, so that treatments fit the people who need them.</p>
 
-<div class="cards">
+<div class="theme-icons" id="themes">
 {% for theme in site.data.themes %}
-<a class="card" href="/en/science/#{{ theme.id }}">
+<a class="theme-icon" href="#{{ theme.id }}">
 <img src="/images/{{ theme.image }}" alt="{{ theme.en.title }}" width="400" height="400" loading="lazy">
-<strong>{{ theme.en.name }}</strong>
-<span>{{ theme.en.short }}</span>
+<span>{{ theme.en.name }}</span>
 </a>
 {% endfor %}
 </div>
+<p class="hint">Click a theme to read more.</p>
+{% for theme in site.data.themes %}
+<section class="theme-panel" id="{{ theme.id }}">
+<h3>{{ theme.en.title }}</h3>
+<p>{{ theme.en.text }}</p>
+<p><a href="https://mhm-lab.github.io/research/#{{ theme.id }}">More on the lab website</a> · <a href="#themes">Close</a></p>
+</section>
+{% endfor %}
+
+<script>
+// Open a theme's text in place (no jump), mark the active icon, click again to close.
+// Without JavaScript the links still work and open the text via the #anchor.
+(function () {
+  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
+  function show(id) {
+    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
+    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
+  }
+  icons.forEach(function (a) {
+    a.setAttribute('aria-expanded', 'false');
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = a.getAttribute('href').slice(1);
+      var open = a.getAttribute('aria-expanded') === 'true';
+      show(open ? '' : id);
+      history.replaceState(null, '', open ? location.pathname : '#' + id);
+    });
+  });
+  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
+  });
+  var h = location.hash.slice(1), el = h && document.getElementById(h);
+  if (el && el.classList.contains('theme-panel')) show(h);
+})();
+</script>
 
 <h2 id="talks">Talks for schools, communities, and organizations</h2>
-<p>Science thrives on conversation, especially in a world that changes so quickly. That is why I am happy to come to you and speak, pro bono, about three topics close to my heart. Your questions are always welcome. Within a two-hour drive of Jena, I cover my own travel costs.</p>
+<p>Science thrives on conversation. That is why I am happy to come to you and speak, pro bono, about three topics close to my heart; your questions are always welcome. Within a two-hour drive of Jena, I cover my own travel costs.</p>
 
 <div class="topics">
 <div class="topic"><strong>Artificial intelligence and machine learning</strong><span>How AI works, what it can do, and where its limits are.</span></div>

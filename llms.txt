@@ -30,10 +30,8 @@ Thomas Wolfers gives pro bono talks and discussions for schools, communities, an
 
 ## Pages
 
-- [Homepage (English)]({{ site.url }}/en/): introduction and public talks
-- [Startseite (Deutsch)]({{ site.url }}/): Einführung und Vorträge
-- [Science (English)]({{ site.url }}/en/science/): the four research themes
-- [Wissenschaft (Deutsch)]({{ site.url }}/science/): die vier Forschungsthemen
+- [Homepage (English)]({{ site.url }}/en/): introduction, research themes, and public talks
+- [Startseite (Deutsch)]({{ site.url }}/): Einführung, Forschungsthemen und Vorträge
 - [Impressum]({{ site.url }}/impressum/)
 
 ## Elsewhere

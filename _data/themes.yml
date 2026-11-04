@@ -1,6 +1,6 @@
-# RESEARCH THEMES (shown as cards on the homepage and on the Science page)
+# RESEARCH THEMES (small icons on the homepage; a click opens the text)
 # Each theme has a German (de) and an English (en) version.
-# short: one line for the homepage card. text: two sentences for the Science page.
+# name: label under the icon. title: heading when opened. text: two sentences shown when the icon is clicked.
 # The full descriptions live on the lab website (mhm-lab.github.io/research/), so keep these short.
 
 - id: foundations
@@ -8,13 +8,11 @@
   de:
     name: Grundlagen
     title: Grundlagen des Mental Health Mapping
-    short: Was ist gesund, und was ist eine Störung?
     text: >-
       Was heißt eigentlich gesund, und wo beginnt eine Störung? Gemeinsam mit PatientInnen, KlinikerInnen und PhilosophInnen suchen wir nach tragfähigen Antworten.
   en:
     name: Foundations
     title: Foundations of Mental Health Mapping
-    short: What is healthy, and what is a disorder?
     text: >-
       What does it mean to be healthy, and where does a disorder begin? Together with patients, clinicians, and philosophers, we look for answers that hold up.
 
@@ -23,13 +21,11 @@
   de:
     name: Strukturen
     title: Strukturen des Mental Health Mapping
-    short: Von der Biologie bis zu Familie und Gesellschaft.
     text: >-
       Psychische Gesundheit entsteht zwischen Biologie, Familie und Gesellschaft. Wir untersuchen, wie diese Ebenen zusammenwirken.
   en:
     name: Structures
     title: Structures of Mental Health Mapping
-    short: From biology to families and society.
     text: >-
       Mental health takes shape between biology, family, and society. We study how these levels work together.
 
@@ -38,13 +34,11 @@
   de:
     name: Marker
     title: Marker für das Mental Health Mapping
-    short: Die verborgenen Faktoren hinter Erkrankungen.
     text: >-
       Zwei Menschen mit derselben Diagnose können sehr verschieden sein. Wir suchen nach Merkmalen, die diese Unterschiede sichtbar machen.
   en:
     name: Markers
     title: Markers for Mental Health Mapping
-    short: The hidden factors behind illness.
     text: >-
       Two people with the same diagnosis can be very different. We look for markers that make these differences visible.
 
@@ -53,12 +47,10 @@
   de:
     name: Modelle
     title: Modelle für das Mental Health Mapping
-    short: Maschinelles Lernen, vom Labor in die Klinik.
     text: >-
       Wir entwickeln Methoden des maschinellen Lernens, die mit großen, komplexen Daten umgehen und den Weg in die Klinik finden.
   en:
     name: Models
     title: Models for Mental Health Mapping
-    short: Machine learning, from lab to clinic.
     text: >-
       We develop machine learning methods that handle large, complex data and can make their way into the clinic.

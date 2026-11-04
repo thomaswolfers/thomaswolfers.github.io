@@ -22,15 +22,11 @@ description:
 # Top menu, one list per language (in this order)
 nav:
   de:
-    - title: Wissenschaft
-      url: /science/
     - title: Vorträge
       url: /#vortraege
     - title: Lab
       url: https://mhm-lab.github.io/de/
   en:
-    - title: Science
-      url: /en/science/
     - title: Talks
       url: /en/#talks
     - title: Lab

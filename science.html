@@ -1,58 +1,9 @@
 ---
-seo_title: "Wissenschaft: Mental Health Mapping mit maschinellem Lernen · Thomas Wolfers"
-description: "Die Forschung von Thomas Wolfers in vier Themen: Grundlagen, Strukturen, Marker und Modelle psychischer Gesundheit, mit maschinellem Lernen und großen Datensätzen."
-title: Wissenschaft
 permalink: /science/
-alt: /en/science/
+redirect_to: /#wissenschaft
+noindex: true
+sitemap: false
+title: Wissenschaft
 ---
-<!-- Kurzfassungen der vier Themen stehen in _data/themes.yml; die ausführlichen Texte stehen auf der Lab-Website -->
-
-<p class="lead">Wissenschaft ist für mich mehr als ein Beruf: Sie ist ein Weg, das Leben von Menschen mit psychischen Erkrankungen spürbar zu verbessern.</p>
-
-<p>Diese Arbeit mache ich gemeinsam mit meinem Team im <a href="https://mhm-lab.github.io/de/">Laboratory for Mental Health Mapping</a>. Sie gliedert sich in vier Themen, die ausführlich auf der <a href="https://mhm-lab.github.io/de/research/">Website des Labs</a> beschrieben sind.</p>
-
-<div class="theme-icons" id="themes">
-{% for theme in site.data.themes %}
-<a class="theme-icon" href="#{{ theme.id }}">
-<img src="/images/{{ theme.image }}" alt="{{ theme.de.title }}" width="400" height="400">
-<span>{{ theme.de.name }}</span>
-</a>
-{% endfor %}
-</div>
-<p class="hint">Für mehr Informationen ein Thema anklicken.</p>
-{% for theme in site.data.themes %}
-<section class="theme-panel" id="{{ theme.id }}">
-<h3>{{ theme.de.title }}</h3>
-<p>{{ theme.de.text }}</p>
-<p><a href="https://mhm-lab.github.io/de/research/#{{ theme.id }}">Mehr auf der Website des Labs</a> · <a href="#themes">Schließen</a></p>
-</section>
-{% endfor %}
-
-<script>
-// Open a theme's text in place (no jump), mark the active icon, click again to close.
-// Without JavaScript the links still work and open the text via the #anchor.
-(function () {
-  var icons = document.querySelectorAll('.theme-icon'), panels = document.querySelectorAll('.theme-panel');
-  function show(id) {
-    panels.forEach(function (p) { p.classList.toggle('open', p.id === id); });
-    icons.forEach(function (a) { a.setAttribute('aria-expanded', a.getAttribute('href') === '#' + id ? 'true' : 'false'); });
-  }
-  icons.forEach(function (a) {
-    a.setAttribute('aria-expanded', 'false');
-    a.addEventListener('click', function (e) {
-      e.preventDefault();
-      var id = a.getAttribute('href').slice(1);
-      var open = a.getAttribute('aria-expanded') === 'true';
-      show(open ? '' : id);
-      history.replaceState(null, '', open ? location.pathname : '#' + id);
-    });
-  });
-  document.querySelectorAll('.theme-panel a[href="#themes"]').forEach(function (a) {
-    a.addEventListener('click', function (e) { e.preventDefault(); show(''); history.replaceState(null, '', location.pathname); });
-  });
-  var h = location.hash.slice(1), el = h && document.getElementById(h);
-  if (el && el.classList.contains('theme-panel')) show(h);
-})();
-</script>
-
-<p class="note">Ausgewählte Publikationen stehen auf der <a href="https://mhm-lab.github.io/de/research/#publications">Website des Labs</a>, eine vollständige Liste auf <a href="https://scholar.google.com/citations?user=4f2rdMcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+<!-- This page moved to the homepage; old links are forwarded there. -->
+<p><a href="/#wissenschaft">Weiter</a></p>
