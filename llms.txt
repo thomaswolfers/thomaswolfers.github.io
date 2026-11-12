@@ -4,16 +4,16 @@ permalink: /llms.txt
 ---
 # Thomas Wolfers
 
-> Prof. Dr. Thomas Wolfers is the Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging (Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme) at Friedrich Schiller University Jena, Germany. He leads the Laboratory for Mental Health Mapping (MHM Lab), which uses machine learning and large, diverse datasets to understand mental health and illness at the level of the individual rather than the diagnostic category.
+> Prof. Dr. Thomas Wolfers is the Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging (Carl-Zeiss-Professor für Künstliche Intelligenz in der Bildgebung neuraler Systeme) at Friedrich Schiller University Jena, Germany. He leads the Laboratory for Mental Health Mapping (MHM Lab), which uses machine learning and large, diverse datasets to understand mental and neurological health across the lifespan, at the level of the individual rather than the diagnostic category.
 
 ## Key facts
 
 - Position: Carl Zeiss Professor for Artificial Intelligence in Neural Systems Imaging, Friedrich Schiller University Jena
-- Faculty: Faculty of Social and Behavioural Sciences (Institute of Psychology); full secondary membership in the Faculty of Mathematics and Computer Science and the Faculty of Medicine
+- Faculty: Faculty of Social and Behavioural Sciences (Institute of Psychology), with full secondary membership in the Faculty of Mathematics and Computer Science and the Faculty of Medicine
 - Leads: Laboratory for Mental Health Mapping (MHM Lab), https://mhm-lab.github.io
 - Education: PhD in neuroscience, Donders Institute, Radboud University (Netherlands)
 - Previous research positions: Netherlands, Norway, and the United Kingdom
-- Research areas: mental health, psychiatry, machine learning, neuroimaging, normative modeling, heterogeneity of mental disorders
+- Research areas: mental and neurological health across the lifespan, mental and neurological disorders, mental health, psychiatry, machine learning, neuroimaging, normative modeling, heterogeneity of mental disorders
 - ORCID: https://orcid.org/0000-0002-7693-0621
 - Languages: German and English
 - Contact: dr.thomas.wolfers@gmail.com
